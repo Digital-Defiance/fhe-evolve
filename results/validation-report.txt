@@ -1,0 +1,82 @@
+═══════════════════════════════════════════════════════════════════════
+  FHE Parameter Evolution — Validation Report
+  Comparison against HE Standard 2018 & measured CPU Montgomery NTT
+═══════════════════════════════════════════════════════════════════════
+
+Report generated: 2026-08-05T02:05:06.041Z
+Total Pareto-optimal points: 2026
+Tiers analyzed: 1024, 2048, 4096, 8192, 16384
+
+─── Per-Tier Analysis ──────────────────────────────────────────────
+
+  N = 1024
+    HE Standard 2018: max log₂(q) = 27, 128-bit security
+    Evolved points in tier: 486
+    Points exceeding HE Standard: 0
+    Fastest evolved NTT: 0.0078 ms
+      Parameters: q=5324801, σ=7.6920, Bg=8
+      Estimator output: 167.1 (ordinal, not bit-security), Noise budget: 17.4 bits
+
+  N = 2048
+    HE Standard 2018: max log₂(q) = 54, 128-bit security
+    Evolved points in tier: 399
+    Points exceeding HE Standard: 0
+    Fastest evolved NTT: 0.0166 ms
+      Parameters: q=724993, σ=8.0250, Bg=134
+      Estimator output: 393.8 (ordinal, not bit-security), Noise budget: 14.5 bits
+
+  N = 4096
+    HE Standard 2018: max log₂(q) = 109, 128-bit security
+    Evolved points in tier: 374
+    Points exceeding HE Standard: 0
+    Fastest evolved NTT: 0.0353 ms
+      Parameters: q=638977, σ=10.0000, Bg=8
+      Estimator output: 812.4 (ordinal, not bit-security), Noise budget: 14.0 bits
+
+  N = 8192
+    HE Standard 2018: max log₂(q) = 218, 128-bit security
+    Evolved points in tier: 394
+    Points exceeding HE Standard: 0
+    Fastest evolved NTT: 0.0737 ms
+      Parameters: q=6258689, σ=6.7010, Bg=8
+      Estimator output: 1307.7 (ordinal, not bit-security), Noise budget: 17.8 bits
+
+  N = 16384
+    HE Standard 2018: max log₂(q) = 438, 128-bit security
+    Evolved points in tier: 373
+    Points exceeding HE Standard: 0
+    Fastest evolved NTT: 0.1589 ms
+      Parameters: q=65537, σ=5.1770, Bg=18
+      Estimator output: 3806.3 (ordinal, not bit-security), Noise budget: 11.6 bits
+
+─── Comparison Against Measured Reference NTT ──────────────────────
+  (Measured CPU Montgomery NTT, idle Apple M4 Max. Degrees without a
+   measurement are reported as n/a — they are not interpolated.)
+
+  N=1024: Pure Rust=0.0078ms → reference=0.0083ms (0.9× speedup, CPU Montgomery NTT)
+  N=2048: Pure Rust=0.0166ms → reference=n/a (no measurement at this degree, speedup n/a)
+  N=4096: Pure Rust=0.0353ms → reference=0.0400ms (0.9× speedup, CPU Montgomery NTT)
+  N=8192: Pure Rust=0.0737ms → reference=n/a (no measurement at this degree, speedup n/a)
+  N=16384: Pure Rust=0.1589ms → reference=0.1853ms (0.9× speedup, CPU Montgomery NTT)
+
+─── Illustrative CustomParameters Mapping ──────────────────────────
+  results/fhe-parameters.json carries an `illustrativeMapping` block per
+  record. Every field in it is a heuristic projection: the modulus chain is
+  hand-picked per degree and is neither the evolved q nor the modulus that
+  was benchmarked; lweDimension is a hardcoded ladder; decompBaseLog and
+  decompLevel are heuristics; glweDimension is fixed at 1; securityLevel is
+  a threshold on the estimator output. None of it is benchmarked and none of
+  it has been validated against a working FHE implementation. Search output
+  and measurements live in the separate `searched` and `measured` blocks.
+
+─── Recommendations ───────────────────────────────────────────────
+
+  MAXIMUM-SECURITY: Maximum security margin (critical infrastructure, long-term)
+    Best: N=1024, q=12289, latency=0.0078ms
+    Measured reference: 0.0083ms (0.9× speedup)
+
+  FAST-BOOTSTRAPPING: Low-latency bootstrapping (interactive applications, real-time)
+    Best: N=1024, q=5324801, latency=0.0078ms
+    Measured reference: 0.0083ms (0.9× speedup)
+
+═══════════════════════════════════════════════════════════════════════

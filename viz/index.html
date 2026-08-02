@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FHE Parameter Pareto Frontier — Apple Silicon M4 Max</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.0.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      min-height: 100vh;
+      padding: 24px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 1.8rem;
+      font-weight: 600;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      text-align: center;
+      font-size: 0.95rem;
+      color: #8888aa;
+      margin-bottom: 24px;
+    }
+
+    .controls {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+
+    .controls label {
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    .controls input[type="file"] {
+      background: #2a2a4a;
+      border: 1px solid #444;
+      border-radius: 6px;
+      padding: 8px 12px;
+      color: #e0e0e0;
+      cursor: pointer;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-bottom: 24px;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .stat-card {
+      background: #2a2a4a;
+      border-radius: 8px;
+      padding: 16px;
+      text-align: center;
+      border: 1px solid #333366;
+    }
+
+    .stat-card .value {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    .stat-card .label {
+      font-size: 0.8rem;
+      color: #8888aa;
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .tier-stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 8px;
+      margin-bottom: 24px;
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .tier-badge {
+      background: #2a2a4a;
+      border-radius: 6px;
+      padding: 10px 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-left: 4px solid;
+    }
+
+    .tier-badge .tier-name { font-weight: 600; font-size: 0.9rem; }
+    .tier-badge .tier-count { font-size: 0.85rem; color: #aaa; }
+
+    .chart-container {
+      background: #16213e;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 24px;
+      max-width: 1400px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .chart-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: #ffffff;
+      text-align: center;
+    }
+
+    #plot3d, #plot2d { width: 100%; }
+
+    .no-data {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+      font-size: 1.1rem;
+    }
+
+    .no-data p { margin-bottom: 12px; }
+    .no-data code {
+      background: #2a2a4a;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>FHE Parameter Pareto Frontier</h1>
+  <p class="subtitle">Multi-Objective Evolutionary Optimization on Apple Silicon M4 Max</p>
+
+  <div class="controls">
+    <label for="fileInput">Load pareto-frontier.json:</label>
+    <input type="file" id="fileInput" accept=".json">
+  </div>
+
+  <div id="stats-section" style="display:none;">
+    <div class="stats-grid" id="summaryStats"></div>
+    <div class="tier-stats" id="tierStats"></div>
+  </div>
+
+  <div class="chart-container">
+    <div class="chart-title">3D Pareto Frontier: Latency × Security × Noise Budget</div>
+    <div id="plot3d"></div>
+  </div>
+
+  <div class="chart-container">
+    <div class="chart-title">2D Projection: Latency vs Security</div>
+    <div id="plot2d"></div>
+  </div>
+
+  <div id="noData" class="no-data">
+    <p>No data loaded yet.</p>
+    <p>Use the file input above to load <code>pareto-frontier.json</code>, or serve this page locally to auto-load from <code>../results/pareto-frontier.json</code>.</p>
+  </div>
+
+  <script>
+    const TIER_COLORS = {
+      1024:  '#4dabf7',  // blue
+      2048:  '#51cf66',  // green
+      4096:  '#ffa94d',  // orange
+      8192:  '#ff6b6b',  // red
+      16384: '#cc5de8',  // purple
+    };
+
+    const TIER_NAMES = {
+      1024: 'N=1024',
+      2048: 'N=2048',
+      4096: 'N=4096',
+      8192: 'N=8192',
+      16384: 'N=16384',
+    };
+
+    function renderData(points) {
+      if (!points || points.length === 0) return;
+
+      document.getElementById('noData').style.display = 'none';
+      document.getElementById('stats-section').style.display = 'block';
+
+      // Group by tier
+      const tiers = {};
+      for (const p of points) {
+        if (!tiers[p.N]) tiers[p.N] = [];
+        tiers[p.N].push(p);
+      }
+
+      // Summary stats
+      const summaryHtml = `
+        <div class="stat-card"><div class="value">${points.length}</div><div class="label">Total Points</div></div>
+        <div class="stat-card"><div class="value">${Object.keys(tiers).length}</div><div class="label">N Tiers</div></div>
+        <div class="stat-card"><div class="value">${Math.min(...points.map(p => p.latencyMs)).toFixed(3)}ms</div><div class="label">Best Latency</div></div>
+        <div class="stat-card"><div class="value">${Math.max(...points.map(p => p.securityBits)).toFixed(0)} bits</div><div class="label">Best Security</div></div>
+        <div class="stat-card"><div class="value">${Math.max(...points.map(p => p.noiseBudgetBits)).toFixed(1)} bits</div><div class="label">Best Noise Budget</div></div>
+      `;
+      document.getElementById('summaryStats').innerHTML = summaryHtml;
+
+      // Tier badges
+      const tierHtml = Object.entries(tiers)
+        .sort((a, b) => Number(a[0]) - Number(b[0]))
+        .map(([N, pts]) => {
+          const color = TIER_COLORS[N] || '#888';
+          const bestLat = Math.min(...pts.map(p => p.latencyMs));
+          return `<div class="tier-badge" style="border-left-color:${color}">
+            <span class="tier-name">${TIER_NAMES[N] || 'N='+N}</span>
+            <span class="tier-count">${pts.length} pts | ${bestLat.toFixed(3)}ms</span>
+          </div>`;
+        }).join('');
+      document.getElementById('tierStats').innerHTML = tierHtml;
+
+      // 3D scatter plot
+      const traces3d = Object.entries(tiers).sort((a,b) => Number(a[0]) - Number(b[0])).map(([N, pts]) => ({
+        x: pts.map(p => p.latencyMs),
+        y: pts.map(p => p.securityBits),
+        z: pts.map(p => p.noiseBudgetBits),
+        mode: 'markers',
+        type: 'scatter3d',
+        name: TIER_NAMES[N] || 'N='+N,
+        marker: {
+          size: 5,
+          color: TIER_COLORS[N] || '#888',
+          opacity: 0.85,
+        },
+        text: pts.map(p =>
+          `N=${p.N}<br>q=${p.q}<br>σ=${(p.sigma/1000).toFixed(4)}<br>Bg=${p.Bg}<br>` +
+          `Latency: ${p.latencyMs.toFixed(4)}ms<br>Security: ${p.securityBits.toFixed(1)} bits<br>` +
+          `Noise: ${p.noiseBudgetBits.toFixed(1)} bits<br>Gen: ${p.generation}`
+        ),
+        hoverinfo: 'text',
+      }));
+
+      const layout3d = {
+        scene: {
+          xaxis: { title: 'Latency (ms)', color: '#aaa', gridcolor: '#333' },
+          yaxis: { title: 'Security (bits)', color: '#aaa', gridcolor: '#333' },
+          zaxis: { title: 'Noise Budget (bits)', color: '#aaa', gridcolor: '#333' },
+          bgcolor: '#16213e',
+        },
+        paper_bgcolor: '#16213e',
+        plot_bgcolor: '#16213e',
+        font: { color: '#e0e0e0' },
+        legend: { x: 0.02, y: 0.98 },
+        margin: { l: 0, r: 0, t: 20, b: 0 },
+        height: 600,
+      };
+
+      Plotly.newPlot('plot3d', traces3d, layout3d, { responsive: true });
+
+      // 2D projection: latency vs security
+      const traces2d = Object.entries(tiers).sort((a,b) => Number(a[0]) - Number(b[0])).map(([N, pts]) => ({
+        x: pts.map(p => p.latencyMs),
+        y: pts.map(p => p.securityBits),
+        mode: 'markers',
+        type: 'scatter',
+        name: TIER_NAMES[N] || 'N='+N,
+        marker: {
+          size: 8,
+          color: TIER_COLORS[N] || '#888',
+          opacity: 0.8,
+        },
+        text: pts.map(p =>
+          `N=${p.N}, q=${p.q}<br>Latency: ${p.latencyMs.toFixed(4)}ms<br>` +
+          `Security: ${p.securityBits.toFixed(1)} bits<br>Noise: ${p.noiseBudgetBits.toFixed(1)} bits`
+        ),
+        hoverinfo: 'text',
+      }));
+
+      const layout2d = {
+        xaxis: { title: 'Latency (ms)', color: '#aaa', gridcolor: '#333', zeroline: false },
+        yaxis: { title: 'Security (bits)', color: '#aaa', gridcolor: '#333', zeroline: false },
+        paper_bgcolor: '#16213e',
+        plot_bgcolor: '#1a1a2e',
+        font: { color: '#e0e0e0' },
+        legend: { x: 0.02, y: 0.98 },
+        margin: { l: 60, r: 20, t: 20, b: 50 },
+        height: 450,
+      };
+
+      Plotly.newPlot('plot2d', traces2d, layout2d, { responsive: true });
+    }
+
+    // File input handler
+    document.getElementById('fileInput').addEventListener('change', (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        try {
+          const data = JSON.parse(ev.target.result);
+          renderData(data);
+        } catch (err) {
+          alert('Error parsing JSON: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    // Auto-load from relative path when served locally
+    fetch('../results/pareto-frontier.json')
+      .then(res => {
+        if (!res.ok) throw new Error('Not found');
+        return res.json();
+      })
+      .then(data => renderData(data))
+      .catch(() => { /* No auto-load available, user must use file input */ });
+  </script>
+</body>
+</html>

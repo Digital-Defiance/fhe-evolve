@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════
+  FHE Parameter Evolution — Pareto Frontier Summary
+═══════════════════════════════════════════════════════════════
+
+Total wall-clock time: 12007.5s
+Interrupted: no
+Total Pareto-optimal points: 2026
+
+─── Per-Tier Results ───────────────────────────────────────────
+
+N = 1024 (HE Standard 2018: max log₂(q) = 27, 128-bit security)
+  Pareto front size: 487
+  Best latency:       0.008ms (q=380929, σ=8.159, security=209.0 bits)
+  Best security:      315.9 bits (q=12289, latency=0.008ms)
+  Best noise budget:  18.7 bits (q=5324801)
+  Max log₂(q) found: 22.3 (standard limit: 27)
+
+N = 2048 (HE Standard 2018: max log₂(q) = 54, 128-bit security)
+  Pareto front size: 399
+  Best latency:       0.017ms (q=724993, σ=8.025, security=393.8 bits)
+  Best security:      631.8 bits (q=12289, latency=0.017ms)
+  Best noise budget:  18.0 bits (q=3391489)
+  Max log₂(q) found: 21.7 (standard limit: 54)
+
+N = 4096 (HE Standard 2018: max log₂(q) = 109, 128-bit security)
+  Pareto front size: 374
+  Best latency:       0.035ms (q=638977, σ=10, security=812.4 bits)
+  Best security:      1080.7 bits (q=40961, latency=0.036ms)
+  Best noise budget:  18.9 bits (q=6258689)
+  Max log₂(q) found: 22.6 (standard limit: 109)
+
+N = 8192 (HE Standard 2018: max log₂(q) = 218, 128-bit security)
+  Pareto front size: 394
+  Best latency:       0.074ms (q=6258689, σ=6.701, security=1307.7 bits)
+  Best security:      2045.7 bits (q=65537, latency=0.074ms)
+  Best noise budget:  19.8 bits (q=11599873)
+  Max log₂(q) found: 23.5 (standard limit: 218)
+
+N = 16384 (HE Standard 2018: max log₂(q) = 438, 128-bit security)
+  Pareto front size: 373
+  Best latency:       0.159ms (q=65537, σ=5.177, security=3806.3 bits)
+  Best security:      4091.4 bits (q=65537, latency=0.160ms)
+  Best noise budget:  19.8 bits (q=11599873)
+  Max log₂(q) found: 23.5 (standard limit: 438)
+
+─── Convergence ────────────────────────────────────────────────
+
+N=1024: 10000 generations, final front size: 487
+N=2048: 10000 generations, final front size: 399
+N=4096: 10000 generations, final front size: 374
+N=8192: 10000 generations, final front size: 394
+N=16384: 10000 generations, final front size: 373
+
+═══════════════════════════════════════════════════════════════

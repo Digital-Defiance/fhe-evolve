@@ -1,0 +1,26 @@
+{
+  "name": "fhe-evolve",
+  "version": "0.1.0",
+  "description": "Evolutionary algorithm for discovering optimal FHE parameters",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "build:native": "cd native && cargo build --release && cp target/release/libfhe_evolve_native.dylib ../native.node && codesign -s - ../native.node",
+    "start": "tsc && node dist/main.js",
+    "start:quick": "tsc && node dist/main.js --quick",
+    "test": "vitest run",
+    "analyze": "tsc && node dist/analyze-frontier.js",
+    "validate": "tsc && node dist/validate-pareto.js",
+    "figures": "python3 scripts/generate-paper-figures.py",
+    "paper": "npm run figures && bash scripts/build-paper.sh",
+    "smoke:bimodality": "node scripts/smoke-bimodality.mjs"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "typescript": "^5.7.0",
+    "vitest": "^3.1.0"
+  }
+}

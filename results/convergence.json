@@ -1,0 +1,5052 @@
+[
+  {
+    "tier": 1024,
+    "generation": 0,
+    "paretoFrontSize": 283,
+    "bestLatencyMs": 0.00775,
+    "bestSecurityBits": 276.47110572421326,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 100,
+    "paretoFrontSize": 453,
+    "bestLatencyMs": 0.007625,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 200,
+    "paretoFrontSize": 447,
+    "bestLatencyMs": 0.007625,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 300,
+    "paretoFrontSize": 473,
+    "bestLatencyMs": 0.00775,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 400,
+    "paretoFrontSize": 449,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 500,
+    "paretoFrontSize": 469,
+    "bestLatencyMs": 0.0077915,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 600,
+    "paretoFrontSize": 474,
+    "bestLatencyMs": 0.00775,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 700,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 800,
+    "paretoFrontSize": 459,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 900,
+    "paretoFrontSize": 456,
+    "bestLatencyMs": 0.0079165,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1000,
+    "paretoFrontSize": 466,
+    "bestLatencyMs": 0.007917,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1100,
+    "paretoFrontSize": 451,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1200,
+    "paretoFrontSize": 470,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1300,
+    "paretoFrontSize": 467,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1400,
+    "paretoFrontSize": 470,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1500,
+    "paretoFrontSize": 467,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1600,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1700,
+    "paretoFrontSize": 471,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1800,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 1900,
+    "paretoFrontSize": 469,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2000,
+    "paretoFrontSize": 452,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2100,
+    "paretoFrontSize": 470,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2200,
+    "paretoFrontSize": 455,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2300,
+    "paretoFrontSize": 448,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2400,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2500,
+    "paretoFrontSize": 450,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2600,
+    "paretoFrontSize": 457,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2700,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.0078125,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2800,
+    "paretoFrontSize": 474,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 2900,
+    "paretoFrontSize": 460,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3000,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3100,
+    "paretoFrontSize": 456,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3200,
+    "paretoFrontSize": 457,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3300,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3400,
+    "paretoFrontSize": 462,
+    "bestLatencyMs": 0.00775,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3500,
+    "paretoFrontSize": 459,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3600,
+    "paretoFrontSize": 464,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3700,
+    "paretoFrontSize": 459,
+    "bestLatencyMs": 0.007708,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3800,
+    "paretoFrontSize": 469,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 3900,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4000,
+    "paretoFrontSize": 467,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4100,
+    "paretoFrontSize": 463,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4200,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4300,
+    "paretoFrontSize": 466,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4400,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4500,
+    "paretoFrontSize": 460,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4600,
+    "paretoFrontSize": 462,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4700,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.0076875,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4800,
+    "paretoFrontSize": 475,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 4900,
+    "paretoFrontSize": 462,
+    "bestLatencyMs": 0.007625,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5000,
+    "paretoFrontSize": 455,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5100,
+    "paretoFrontSize": 454,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5200,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5300,
+    "paretoFrontSize": 475,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5400,
+    "paretoFrontSize": 467,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5500,
+    "paretoFrontSize": 461,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5600,
+    "paretoFrontSize": 482,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5700,
+    "paretoFrontSize": 473,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5800,
+    "paretoFrontSize": 460,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 5900,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6000,
+    "paretoFrontSize": 445,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6100,
+    "paretoFrontSize": 450,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6200,
+    "paretoFrontSize": 446,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6300,
+    "paretoFrontSize": 460,
+    "bestLatencyMs": 0.007500000000000001,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6400,
+    "paretoFrontSize": 459,
+    "bestLatencyMs": 0.007709000000000001,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6500,
+    "paretoFrontSize": 441,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6600,
+    "paretoFrontSize": 454,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6700,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.0077295,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6800,
+    "paretoFrontSize": 478,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 6900,
+    "paretoFrontSize": 477,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7000,
+    "paretoFrontSize": 455,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7100,
+    "paretoFrontSize": 464,
+    "bestLatencyMs": 0.007709000000000001,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7200,
+    "paretoFrontSize": 468,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7300,
+    "paretoFrontSize": 457,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7400,
+    "paretoFrontSize": 461,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7500,
+    "paretoFrontSize": 463,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7600,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.007625,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7700,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7800,
+    "paretoFrontSize": 454,
+    "bestLatencyMs": 0.007541,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 7900,
+    "paretoFrontSize": 463,
+    "bestLatencyMs": 0.007666999999999999,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8000,
+    "paretoFrontSize": 471,
+    "bestLatencyMs": 0.007709000000000001,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8100,
+    "paretoFrontSize": 459,
+    "bestLatencyMs": 0.007708,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8200,
+    "paretoFrontSize": 457,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8300,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8400,
+    "paretoFrontSize": 472,
+    "bestLatencyMs": 0.00775,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8500,
+    "paretoFrontSize": 455,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8600,
+    "paretoFrontSize": 465,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8700,
+    "paretoFrontSize": 454,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8800,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 8900,
+    "paretoFrontSize": 445,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9000,
+    "paretoFrontSize": 463,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9100,
+    "paretoFrontSize": 469,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9200,
+    "paretoFrontSize": 466,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9300,
+    "paretoFrontSize": 455,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9400,
+    "paretoFrontSize": 474,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9500,
+    "paretoFrontSize": 458,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9600,
+    "paretoFrontSize": 464,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9700,
+    "paretoFrontSize": 460,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9800,
+    "paretoFrontSize": 467,
+    "bestLatencyMs": 0.007791,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9900,
+    "paretoFrontSize": 451,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 1024,
+    "generation": 9999,
+    "paretoFrontSize": 487,
+    "bestLatencyMs": 0.0077919999999999994,
+    "bestSecurityBits": 315.88580785786485,
+    "bestNoiseBudgetBits": 18.666224273741975,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 0,
+    "paretoFrontSize": 297,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 551.505334748477,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 100,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 200,
+    "paretoFrontSize": 415,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 300,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 400,
+    "paretoFrontSize": 415,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 500,
+    "paretoFrontSize": 422,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 600,
+    "paretoFrontSize": 424,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 700,
+    "paretoFrontSize": 422,
+    "bestLatencyMs": 0.0166455,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 800,
+    "paretoFrontSize": 419,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 900,
+    "paretoFrontSize": 420,
+    "bestLatencyMs": 0.016333,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1000,
+    "paretoFrontSize": 414,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1100,
+    "paretoFrontSize": 420,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1200,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1300,
+    "paretoFrontSize": 420,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1400,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1500,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1600,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1700,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1800,
+    "paretoFrontSize": 419,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 1900,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2000,
+    "paretoFrontSize": 431,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2100,
+    "paretoFrontSize": 417,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2200,
+    "paretoFrontSize": 425,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2300,
+    "paretoFrontSize": 423,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2400,
+    "paretoFrontSize": 424,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2500,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2600,
+    "paretoFrontSize": 414,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2700,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2800,
+    "paretoFrontSize": 411,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 2900,
+    "paretoFrontSize": 411,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3000,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3100,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3200,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3300,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3400,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.016375,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3500,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3600,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3700,
+    "paretoFrontSize": 395,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3800,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 3900,
+    "paretoFrontSize": 418,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4000,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.016708,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4100,
+    "paretoFrontSize": 418,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4200,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4300,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4400,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4500,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4600,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.016583999999999998,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4700,
+    "paretoFrontSize": 412,
+    "bestLatencyMs": 0.0162705,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4800,
+    "paretoFrontSize": 416,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 4900,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5000,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.0164585,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5100,
+    "paretoFrontSize": 424,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5200,
+    "paretoFrontSize": 422,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5300,
+    "paretoFrontSize": 415,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5400,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.0166455,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5500,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5600,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5700,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5800,
+    "paretoFrontSize": 417,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 5900,
+    "paretoFrontSize": 418,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6000,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6100,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6200,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6300,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6400,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6500,
+    "paretoFrontSize": 434,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6600,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6700,
+    "paretoFrontSize": 421,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6800,
+    "paretoFrontSize": 428,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 6900,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7000,
+    "paretoFrontSize": 412,
+    "bestLatencyMs": 0.016583999999999998,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7100,
+    "paretoFrontSize": 423,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7200,
+    "paretoFrontSize": 425,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7300,
+    "paretoFrontSize": 421,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7400,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7500,
+    "paretoFrontSize": 427,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7600,
+    "paretoFrontSize": 417,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7700,
+    "paretoFrontSize": 415,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7800,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 7900,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8000,
+    "paretoFrontSize": 420,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8100,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8200,
+    "paretoFrontSize": 414,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8300,
+    "paretoFrontSize": 412,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8400,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8500,
+    "paretoFrontSize": 415,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8600,
+    "paretoFrontSize": 416,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8700,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.0166665,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8800,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 8900,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9000,
+    "paretoFrontSize": 409,
+    "bestLatencyMs": 0.016708,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9100,
+    "paretoFrontSize": 409,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9200,
+    "paretoFrontSize": 423,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9300,
+    "paretoFrontSize": 419,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9400,
+    "paretoFrontSize": 417,
+    "bestLatencyMs": 0.016666,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9500,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016667,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9600,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9700,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9800,
+    "paretoFrontSize": 409,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9900,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 2048,
+    "generation": 9999,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.016625,
+    "bestSecurityBits": 631.7716157157297,
+    "bestNoiseBudgetBits": 18.015415477773665,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 0,
+    "paretoFrontSize": 270,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 955.4767915019344,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 100,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 200,
+    "paretoFrontSize": 375,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 300,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 400,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.034999999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 500,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 600,
+    "paretoFrontSize": 372,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 700,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 800,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 900,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.0353125,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1000,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1100,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1200,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1300,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1400,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1500,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.035270499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1600,
+    "paretoFrontSize": 377,
+    "bestLatencyMs": 0.035395499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1700,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1800,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 1900,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2000,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2100,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2200,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2300,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2400,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2500,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2600,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2700,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2800,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 2900,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3000,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3100,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035209000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3200,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.0351665,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3300,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.035207999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3400,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.034125,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3500,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.035417000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3600,
+    "paretoFrontSize": 367,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3700,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3800,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.034313,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 3900,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.0354375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4000,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4100,
+    "paretoFrontSize": 381,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4200,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4300,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4400,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4500,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4600,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4700,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4800,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.035416,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 4900,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.035334,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5000,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5100,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.035417000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5200,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.035417000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5300,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5400,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5500,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5600,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5700,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035207999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5800,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 5900,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6000,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.035209000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6100,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6200,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6300,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035333500000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6400,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6500,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6600,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6700,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6800,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.035209000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 6900,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7000,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7100,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7200,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7300,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7400,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7500,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7600,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7700,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7800,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035334,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 7900,
+    "paretoFrontSize": 361,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8000,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.035167,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8100,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8200,
+    "paretoFrontSize": 367,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8300,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8400,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.035375,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8500,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8600,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.035292,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8700,
+    "paretoFrontSize": 364,
+    "bestLatencyMs": 0.035291499999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8800,
+    "paretoFrontSize": 381,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 8900,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9000,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.035457999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9100,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.035209000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9200,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.035688,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9300,
+    "paretoFrontSize": 375,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9400,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9500,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.035290999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9600,
+    "paretoFrontSize": 395,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9700,
+    "paretoFrontSize": 395,
+    "bestLatencyMs": 0.035207999999999996,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9800,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9900,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.035333,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 4096,
+    "generation": 9999,
+    "paretoFrontSize": 374,
+    "bestLatencyMs": 0.035250000000000004,
+    "bestSecurityBits": 1080.6581614560155,
+    "bestNoiseBudgetBits": 18.899357153433872,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 0,
+    "paretoFrontSize": 261,
+    "bestLatencyMs": 0.0736875,
+    "bestSecurityBits": 1826.4562494033494,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 100,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 200,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 300,
+    "paretoFrontSize": 404,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 400,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 500,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.0737705,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 600,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 700,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 800,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 900,
+    "paretoFrontSize": 409,
+    "bestLatencyMs": 0.073666,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1000,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1100,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1200,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1300,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1400,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1500,
+    "paretoFrontSize": 416,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1600,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.073666,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1700,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1800,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 1900,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.073542,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2000,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2100,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2200,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.073709,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2300,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2400,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.0724795,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2500,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2600,
+    "paretoFrontSize": 374,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2700,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.073833,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2800,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.073666,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 2900,
+    "paretoFrontSize": 395,
+    "bestLatencyMs": 0.073791,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3000,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3100,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3200,
+    "paretoFrontSize": 413,
+    "bestLatencyMs": 0.073709,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3300,
+    "paretoFrontSize": 409,
+    "bestLatencyMs": 0.073666,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3400,
+    "paretoFrontSize": 392,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3500,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3600,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3700,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3800,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.07358400000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 3900,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4000,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.073709,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4100,
+    "paretoFrontSize": 393,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4200,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4300,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4400,
+    "paretoFrontSize": 395,
+    "bestLatencyMs": 0.0737295,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4500,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.07358300000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4600,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4700,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.0736875,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4800,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.0737295,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 4900,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.07358350000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5000,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5100,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.0737705,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5200,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.07087500000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5300,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.0736875,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5400,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.07358400000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5500,
+    "paretoFrontSize": 360,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5600,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5700,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5800,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 5900,
+    "paretoFrontSize": 398,
+    "bestLatencyMs": 0.0738125,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6000,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6100,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.07358300000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6200,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6300,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.0736665,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6400,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6500,
+    "paretoFrontSize": 406,
+    "bestLatencyMs": 0.073791,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6600,
+    "paretoFrontSize": 374,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6700,
+    "paretoFrontSize": 400,
+    "bestLatencyMs": 0.0736875,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6800,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.073709,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 6900,
+    "paretoFrontSize": 377,
+    "bestLatencyMs": 0.073833,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7000,
+    "paretoFrontSize": 388,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7100,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7200,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.073792,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7300,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.073791,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7400,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7500,
+    "paretoFrontSize": 408,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7600,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7700,
+    "paretoFrontSize": 410,
+    "bestLatencyMs": 0.072813,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7800,
+    "paretoFrontSize": 393,
+    "bestLatencyMs": 0.0737705,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 7900,
+    "paretoFrontSize": 393,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8000,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.0737295,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8100,
+    "paretoFrontSize": 376,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8200,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.0736665,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8300,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.0736455,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8400,
+    "paretoFrontSize": 371,
+    "bestLatencyMs": 0.073854,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8500,
+    "paretoFrontSize": 396,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8600,
+    "paretoFrontSize": 393,
+    "bestLatencyMs": 0.073625,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8700,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8800,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.07370850000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 8900,
+    "paretoFrontSize": 403,
+    "bestLatencyMs": 0.073833,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9000,
+    "paretoFrontSize": 402,
+    "bestLatencyMs": 0.07375000000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9100,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.0737705,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9200,
+    "paretoFrontSize": 393,
+    "bestLatencyMs": 0.072896,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9300,
+    "paretoFrontSize": 397,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9400,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.073709,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9500,
+    "paretoFrontSize": 407,
+    "bestLatencyMs": 0.0737915,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9600,
+    "paretoFrontSize": 399,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9700,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.073666,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9800,
+    "paretoFrontSize": 384,
+    "bestLatencyMs": 0.073667,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9900,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 8192,
+    "generation": 9999,
+    "paretoFrontSize": 394,
+    "bestLatencyMs": 0.07370800000000001,
+    "bestSecurityBits": 2045.7232898153468,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 0,
+    "paretoFrontSize": 211,
+    "bestLatencyMs": 0.158625,
+    "bestSecurityBits": 3704.6412452872814,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 100,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.158667,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 200,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.1589795,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 300,
+    "paretoFrontSize": 377,
+    "bestLatencyMs": 0.15860449999999998,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 400,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.15868749999999998,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 500,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.158625,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 600,
+    "paretoFrontSize": 363,
+    "bestLatencyMs": 0.1590415,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 700,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.159146,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 800,
+    "paretoFrontSize": 369,
+    "bestLatencyMs": 0.15875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 900,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1000,
+    "paretoFrontSize": 375,
+    "bestLatencyMs": 0.1546875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1100,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.1590625,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1200,
+    "paretoFrontSize": 363,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1300,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.1590205,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1400,
+    "paretoFrontSize": 360,
+    "bestLatencyMs": 0.1590415,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1500,
+    "paretoFrontSize": 374,
+    "bestLatencyMs": 0.15912500000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1600,
+    "paretoFrontSize": 376,
+    "bestLatencyMs": 0.15925,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1700,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.159042,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1800,
+    "paretoFrontSize": 372,
+    "bestLatencyMs": 0.1568755,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 1900,
+    "paretoFrontSize": 361,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2000,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2100,
+    "paretoFrontSize": 381,
+    "bestLatencyMs": 0.158979,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2200,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.15754200000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2300,
+    "paretoFrontSize": 354,
+    "bestLatencyMs": 0.159209,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2400,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2500,
+    "paretoFrontSize": 381,
+    "bestLatencyMs": 0.1590205,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2600,
+    "paretoFrontSize": 369,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2700,
+    "paretoFrontSize": 374,
+    "bestLatencyMs": 0.15325000000000003,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2800,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.158792,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 2900,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.1588545,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3000,
+    "paretoFrontSize": 376,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3100,
+    "paretoFrontSize": 372,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3200,
+    "paretoFrontSize": 364,
+    "bestLatencyMs": 0.159084,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3300,
+    "paretoFrontSize": 359,
+    "bestLatencyMs": 0.159083,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3400,
+    "paretoFrontSize": 387,
+    "bestLatencyMs": 0.15883350000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3500,
+    "paretoFrontSize": 371,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3600,
+    "paretoFrontSize": 360,
+    "bestLatencyMs": 0.157271,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3700,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.158916,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3800,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.15875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 3900,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4000,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4100,
+    "paretoFrontSize": 375,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4200,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.159083,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4300,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.1591665,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4400,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.1590625,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4500,
+    "paretoFrontSize": 372,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4600,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.15879100000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4700,
+    "paretoFrontSize": 401,
+    "bestLatencyMs": 0.159042,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4800,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.15912500000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 4900,
+    "paretoFrontSize": 367,
+    "bestLatencyMs": 0.1589375,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5000,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.1585,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5100,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.158917,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5200,
+    "paretoFrontSize": 355,
+    "bestLatencyMs": 0.15833350000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5300,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5400,
+    "paretoFrontSize": 362,
+    "bestLatencyMs": 0.1588955,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5500,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.158729,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5600,
+    "paretoFrontSize": 371,
+    "bestLatencyMs": 0.1588955,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5700,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.158875,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5800,
+    "paretoFrontSize": 381,
+    "bestLatencyMs": 0.159146,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 5900,
+    "paretoFrontSize": 370,
+    "bestLatencyMs": 0.1585835,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6000,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.15910400000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6100,
+    "paretoFrontSize": 363,
+    "bestLatencyMs": 0.1591045,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6200,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.15883350000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6300,
+    "paretoFrontSize": 360,
+    "bestLatencyMs": 0.158708,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6400,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6500,
+    "paretoFrontSize": 377,
+    "bestLatencyMs": 0.159333,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6600,
+    "paretoFrontSize": 376,
+    "bestLatencyMs": 0.158833,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6700,
+    "paretoFrontSize": 383,
+    "bestLatencyMs": 0.1590415,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6800,
+    "paretoFrontSize": 340,
+    "bestLatencyMs": 0.159083,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 6900,
+    "paretoFrontSize": 363,
+    "bestLatencyMs": 0.158833,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7000,
+    "paretoFrontSize": 364,
+    "bestLatencyMs": 0.1590835,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7100,
+    "paretoFrontSize": 377,
+    "bestLatencyMs": 0.158833,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7200,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.159063,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7300,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.1535,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7400,
+    "paretoFrontSize": 366,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7500,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.159,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7600,
+    "paretoFrontSize": 391,
+    "bestLatencyMs": 0.1588545,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7700,
+    "paretoFrontSize": 357,
+    "bestLatencyMs": 0.159021,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7800,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.1557495,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 7900,
+    "paretoFrontSize": 405,
+    "bestLatencyMs": 0.1587915,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8000,
+    "paretoFrontSize": 380,
+    "bestLatencyMs": 0.158729,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8100,
+    "paretoFrontSize": 364,
+    "bestLatencyMs": 0.1589375,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8200,
+    "paretoFrontSize": 368,
+    "bestLatencyMs": 0.158959,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8300,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.15879100000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8400,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.1587295,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8500,
+    "paretoFrontSize": 390,
+    "bestLatencyMs": 0.15927049999999998,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8600,
+    "paretoFrontSize": 369,
+    "bestLatencyMs": 0.15891650000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8700,
+    "paretoFrontSize": 379,
+    "bestLatencyMs": 0.153958,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8800,
+    "paretoFrontSize": 365,
+    "bestLatencyMs": 0.159146,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 8900,
+    "paretoFrontSize": 382,
+    "bestLatencyMs": 0.15895800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9000,
+    "paretoFrontSize": 367,
+    "bestLatencyMs": 0.1589585,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9100,
+    "paretoFrontSize": 389,
+    "bestLatencyMs": 0.1589585,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9200,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.158917,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9300,
+    "paretoFrontSize": 369,
+    "bestLatencyMs": 0.15883350000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9400,
+    "paretoFrontSize": 385,
+    "bestLatencyMs": 0.1588125,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9500,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.154896,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9600,
+    "paretoFrontSize": 378,
+    "bestLatencyMs": 0.1591045,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9700,
+    "paretoFrontSize": 386,
+    "bestLatencyMs": 0.15904100000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9800,
+    "paretoFrontSize": 375,
+    "bestLatencyMs": 0.1588955,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9900,
+    "paretoFrontSize": 372,
+    "bestLatencyMs": 0.15920800000000002,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  },
+  {
+    "tier": 16384,
+    "generation": 9999,
+    "paretoFrontSize": 373,
+    "bestLatencyMs": 0.158917,
+    "bestSecurityBits": 4091.4465796306936,
+    "bestNoiseBudgetBits": 19.78953376934199,
+    "populationSize": 500,
+    "secureCount": 500
+  }
+]

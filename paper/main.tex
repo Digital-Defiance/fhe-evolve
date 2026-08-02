@@ -1,0 +1,110 @@
+% Hardware-in-the-loop evolutionary search for FHE parameters on Apple Silicon
+%
+% Build:  latexmk -pdf main.tex
+% Clean:  latexmk -C
+%
+% body.tex is generated from ../PAPER_ABSTRACT.md by scripts/build-paper.sh.
+% Do not edit body.tex directly; edit the Markdown source and regenerate.
+
+\documentclass[11pt,a4paper]{article}
+
+% --- encoding and fonts ---------------------------------------------------
+% The Markdown source contains characters pdfLaTeX cannot typeset directly:
+% U+2212 MINUS SIGN, subscript digits in log_2(q), and a bare sigma in prose.
+% Under XeLaTeX these are handled natively by a Unicode font; under pdfLaTeX
+% they are declared explicitly below. Build with either.
+% Build with pdfLaTeX. A XeLaTeX path was attempted and removed: it needs
+% fontspec font resolution that fails on hosts carrying only the
+% TeX-distribution copy of Latin Modern, and it buys nothing here because the
+% declarations below cover every non-ASCII character the source actually uses.
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{lmodern}
+  \usepackage{textcomp}
+  % Characters pandoc passes through from the Markdown source.
+  \DeclareUnicodeCharacter{2212}{\textminus}
+  \DeclareUnicodeCharacter{2080}{\ensuremath{_0}}
+  \DeclareUnicodeCharacter{2081}{\ensuremath{_1}}
+  \DeclareUnicodeCharacter{2082}{\ensuremath{_2}}
+  \DeclareUnicodeCharacter{03C3}{\ensuremath{\sigma}}
+  \DeclareUnicodeCharacter{03C8}{\ensuremath{\psi}}
+  \DeclareUnicodeCharacter{03C9}{\ensuremath{\omega}}
+  \DeclareUnicodeCharacter{2248}{\ensuremath{\approx}}
+  \DeclareUnicodeCharacter{2261}{\ensuremath{\equiv}}
+  \DeclareUnicodeCharacter{2265}{\ensuremath{\geq}}
+  \DeclareUnicodeCharacter{2264}{\ensuremath{\leq}}
+  \DeclareUnicodeCharacter{00D7}{\ensuremath{\times}}
+  \DeclareUnicodeCharacter{00B5}{\textmu}
+  \DeclareUnicodeCharacter{00E8}{\`e}
+  \DeclareUnicodeCharacter{2192}{\ensuremath{\rightarrow}}
+  \DeclareUnicodeCharacter{2713}{\ensuremath{\checkmark}}
+  \DeclareUnicodeCharacter{2717}{\ensuremath{\times}}
+\else
+  % No \setmainfont: fontspec defaults to Latin Modern, which is what the
+  % pdfLaTeX branch uses via lmodern. Naming it explicitly as a system font
+  % fails on hosts where only the TeX-distribution version is installed
+  % (the "missing fonts" failure mode under XeLaTeX). Prefer pdfLaTeX.
+  \usepackage{fontspec}
+  \usepackage{unicode-math}
+\fi
+\usepackage[english]{babel}
+
+% --- mathematics ----------------------------------------------------------
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+% --- tables ---------------------------------------------------------------
+% Pandoc emits longtable for Markdown pipe tables, which needs both of these.
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{calc}
+
+% --- layout ---------------------------------------------------------------
+\usepackage[margin=1in]{geometry}
+\usepackage{microtype}
+\setlength{\parskip}{0.4em}
+
+% --- figures and links ----------------------------------------------------
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=blue!60!black,
+  breaklinks=true
+]{hyperref}
+\usepackage{url}
+
+% --- code and verbatim ----------------------------------------------------
+% Pandoc wraps fenced code blocks in Shaded/Highlighting when a highlighting
+% style is active; providing these keeps the document compiling if it does.
+\usepackage{fancyvrb}
+\usepackage{framed}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\pandocbounded}[1]{#1}
+
+% Pandoc emits \def\LTcaptype{none} for a longtable with no caption, and
+% longtable then tries to step a counter named `none'. Define it so the
+% suppression works instead of erroring once per table.
+\newcounter{none}
+
+% --- metadata -------------------------------------------------------------
+% Title matches the Markdown H1 in ../PAPER_ABSTRACT.md (the source of truth).
+\title{Hardware-Aware FHE Parameter Discovery via\\
+       Multi-Objective Evolutionary Optimization\\
+       on Apple Silicon}
+\author{Jessica Mulein\\\small Digital Defiance}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\input{body}
+
+\end{document}

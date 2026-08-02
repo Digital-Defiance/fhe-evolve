@@ -1,0 +1,3742 @@
+[
+  {
+    "N": 4096,
+    "q": 6258689,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.035542,
+    "securityBits": 620.4944919977743,
+    "noiseBudgetBits": 18.899357153433872,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.036083,
+    "securityBits": 1080.6581614560155,
+    "noiseBudgetBits": 10.000035221616947,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 5592,
+    "Bg": 9,
+    "latencyMs": 0.036167,
+    "securityBits": 741.2825857863004,
+    "noiseBudgetBits": 15.493916960486164,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 9270,
+    "Bg": 4,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 724.2078816386199,
+    "noiseBudgetBits": 15.906372367362614,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2572289,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.036208500000000005,
+    "securityBits": 661.0712074027127,
+    "noiseBudgetBits": 17.6165494046395,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 8769,
+    "Bg": 10,
+    "latencyMs": 0.035417000000000004,
+    "securityBits": 913.9091260995338,
+    "noiseBudgetBits": 12.189524570507093,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 6616,
+    "Bg": 14,
+    "latencyMs": 0.037292,
+    "securityBits": 897.8093291829256,
+    "noiseBudgetBits": 12.443975550801865,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.036583,
+    "securityBits": 886.4637075077421,
+    "noiseBudgetBits": 12.628840289986424,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 8104,
+    "Bg": 8,
+    "latencyMs": 0.036583,
+    "securityBits": 1054.0184571138745,
+    "noiseBudgetBits": 10.303329142365259,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.0370625,
+    "securityBits": 936.4478433540702,
+    "noiseBudgetBits": 11.84800669042369,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 925697,
+    "sigma": 4857,
+    "Bg": 6,
+    "latencyMs": 0.037084,
+    "securityBits": 739.3301568693179,
+    "noiseBudgetBits": 15.540115034550361,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 9565,
+    "Bg": 8,
+    "latencyMs": 0.0387295,
+    "securityBits": 841.2727092805261,
+    "noiseBudgetBits": 13.414663826537828,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 3545,
+    "Bg": 14,
+    "latencyMs": 0.038312,
+    "securityBits": 627.7430980380134,
+    "noiseBudgetBits": 18.658030395763458,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 7230,
+    "Bg": 6,
+    "latencyMs": 0.0385,
+    "securityBits": 848.9484625998316,
+    "noiseBudgetBits": 13.275292401480783,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5849089,
+    "sigma": 5334,
+    "Bg": 12,
+    "latencyMs": 0.038459,
+    "securityBits": 646.3104231612276,
+    "noiseBudgetBits": 18.06456268579323,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 319489,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.0383545,
+    "securityBits": 831.6879215955727,
+    "noiseBudgetBits": 13.59231012411643,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 3200,
+    "Bg": 9,
+    "latencyMs": 0.038583,
+    "securityBits": 631.9163970093888,
+    "noiseBudgetBits": 18.521600739230898,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 8494,
+    "Bg": 13,
+    "latencyMs": 0.0373545,
+    "securityBits": 920.7899020036832,
+    "noiseBudgetBits": 12.083490676625738,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 6068,
+    "Bg": 10,
+    "latencyMs": 0.038416,
+    "securityBits": 967.8430233913566,
+    "noiseBudgetBits": 11.398800928026414,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 7151,
+    "Bg": 11,
+    "latencyMs": 0.037416000000000005,
+    "securityBits": 985.264942823334,
+    "noiseBudgetBits": 11.161877010299001,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 8294,
+    "Bg": 7,
+    "latencyMs": 0.038021,
+    "securityBits": 942.7592647698501,
+    "noiseBudgetBits": 11.755299454061351,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 10000,
+    "Bg": 10,
+    "latencyMs": 0.0364165,
+    "securityBits": 774.4750488319771,
+    "noiseBudgetBits": 14.744162409825293,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4620289,
+    "sigma": 3545,
+    "Bg": 13,
+    "latencyMs": 0.036229,
+    "securityBits": 638.3816755721731,
+    "noiseBudgetBits": 18.313766037186156,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 9661,
+    "Bg": 5,
+    "latencyMs": 0.041959,
+    "securityBits": 1076.1959463283633,
+    "noiseBudgetBits": 10.049790787860198,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 8769,
+    "Bg": 9,
+    "latencyMs": 0.0372085,
+    "securityBits": 802.8194332128036,
+    "noiseBudgetBits": 14.152992146818878,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3686401,
+    "sigma": 3200,
+    "Bg": 11,
+    "latencyMs": 0.037958500000000006,
+    "securityBits": 644.0267667603537,
+    "noiseBudgetBits": 18.135709677460422,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 6743,
+    "Bg": 4,
+    "latencyMs": 0.038375,
+    "securityBits": 814.6180591540258,
+    "noiseBudgetBits": 13.919038197443223,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 5454,
+    "Bg": 11,
+    "latencyMs": 0.038625,
+    "securityBits": 871.816159464959,
+    "noiseBudgetBits": 12.874622200119038,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 6813,
+    "Bg": 11,
+    "latencyMs": 0.037125,
+    "securityBits": 900.4482737561119,
+    "noiseBudgetBits": 12.401644578545095,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 778241,
+    "sigma": 5231,
+    "Bg": 4,
+    "latencyMs": 0.0371875,
+    "securityBits": 754.7057591799095,
+    "noiseBudgetBits": 15.182770692105791,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 4693,
+    "Bg": 11,
+    "latencyMs": 0.038167,
+    "securityBits": 990.5650765048418,
+    "noiseBudgetBits": 11.091452856138133,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 9493,
+    "Bg": 8,
+    "latencyMs": 0.038792,
+    "securityBits": 808.548389180816,
+    "noiseBudgetBits": 14.038540393529836,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6144001,
+    "sigma": 3200,
+    "Bg": 4,
+    "latencyMs": 0.036667,
+    "securityBits": 621.2876849038076,
+    "noiseBudgetBits": 18.87267511508423,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 7341,
+    "Bg": 4,
+    "latencyMs": 0.0372705,
+    "securityBits": 776.105423450609,
+    "noiseBudgetBits": 14.70898773306314,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5849089,
+    "sigma": 6616,
+    "Bg": 13,
+    "latencyMs": 0.037084,
+    "securityBits": 656.4773376603322,
+    "noiseBudgetBits": 17.753821276172882,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 5324,
+    "Bg": 10,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 878.7397998387701,
+    "noiseBudgetBits": 12.757424214061247,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 974849,
+    "sigma": 9661,
+    "Bg": 5,
+    "latencyMs": 0.037458,
+    "securityBits": 780.136654689582,
+    "noiseBudgetBits": 14.62264671458101,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2056193,
+    "sigma": 3580,
+    "Bg": 8,
+    "latencyMs": 0.036833,
+    "securityBits": 677.8286391312793,
+    "noiseBudgetBits": 17.13158466809547,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4882433,
+    "sigma": 7230,
+    "Bg": 7,
+    "latencyMs": 0.037708,
+    "securityBits": 669.6524677048296,
+    "noiseBudgetBits": 17.36517316877271,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4882433,
+    "sigma": 6586,
+    "Bg": 4,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 665.0303289701139,
+    "noiseBudgetBits": 17.499766304015843,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 5764,
+    "Bg": 9,
+    "latencyMs": 0.037729,
+    "securityBits": 650.5970694113364,
+    "noiseBudgetBits": 17.9323615332812,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1794049,
+    "sigma": 3640,
+    "Bg": 7,
+    "latencyMs": 0.037375,
+    "securityBits": 685.7405353170872,
+    "noiseBudgetBits": 16.9108494133333,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1589249,
+    "sigma": 6091,
+    "Bg": 9,
+    "latencyMs": 0.037209,
+    "securityBits": 720.7117705880188,
+    "noiseBudgetBits": 15.993234645549968,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3686401,
+    "sigma": 3215,
+    "Bg": 11,
+    "latencyMs": 0.038958,
+    "securityBits": 644.2426318655773,
+    "noiseBudgetBits": 18.12896284501984,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.0372915,
+    "securityBits": 769.7018898204491,
+    "noiseBudgetBits": 14.847998129542171,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3686401,
+    "sigma": 9661,
+    "Bg": 8,
+    "latencyMs": 0.037542,
+    "securityBits": 699.3964742910003,
+    "noiseBudgetBits": 16.54160905392895,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 9989,
+    "Bg": 9,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 676.7006235250005,
+    "noiseBudgetBits": 17.16347576635697,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3489793,
+    "sigma": 8730,
+    "Bg": 9,
+    "latencyMs": 0.036458000000000004,
+    "securityBits": 696.8738398102481,
+    "noiseBudgetBits": 16.60872837977537,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4423681,
+    "sigma": 4286,
+    "Bg": 11,
+    "latencyMs": 0.03675,
+    "securityBits": 649.1373334952993,
+    "noiseBudgetBits": 17.9771840731664,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 8454,
+    "Bg": 9,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 666.2729723421605,
+    "noiseBudgetBits": 17.46339794395921,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 778241,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.0404165,
+    "securityBits": 798.1285311438644,
+    "noiseBudgetBits": 14.247929367234336,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5308417,
+    "sigma": 6583,
+    "Bg": 9,
+    "latencyMs": 0.03825,
+    "securityBits": 660.9177184044057,
+    "noiseBudgetBits": 17.621105076903252,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 6796,
+    "Bg": 8,
+    "latencyMs": 0.036834,
+    "securityBits": 1032.7028320585978,
+    "noiseBudgetBits": 10.557277463982176,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 9270,
+    "Bg": 9,
+    "latencyMs": 0.0372915,
+    "securityBits": 740.9539089929092,
+    "noiseBudgetBits": 15.501677017435238,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3391489,
+    "sigma": 5334,
+    "Bg": 12,
+    "latencyMs": 0.0383955,
+    "securityBits": 672.6711627818449,
+    "noiseBudgetBits": 17.278269557997465,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 6655,
+    "Bg": 10,
+    "latencyMs": 0.038958,
+    "securityBits": 666.2101269637518,
+    "noiseBudgetBits": 17.465233978206367,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 5250,
+    "Bg": 12,
+    "latencyMs": 0.036208000000000004,
+    "securityBits": 767.6474973827919,
+    "noiseBudgetBits": 14.89308705390524,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 6068,
+    "Bg": 10,
+    "latencyMs": 0.036083,
+    "securityBits": 763.5499318027377,
+    "noiseBudgetBits": 14.983743249616653,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1196033,
+    "sigma": 4623,
+    "Bg": 6,
+    "latencyMs": 0.0356045,
+    "securityBits": 721.2023021242607,
+    "noiseBudgetBits": 15.980996402540143,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.036167,
+    "securityBits": 744.8815480355023,
+    "noiseBudgetBits": 15.409393525991767,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 9949,
+    "Bg": 8,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 778.2599944755971,
+    "noiseBudgetBits": 14.66272979730634,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 974849,
+    "sigma": 3200,
+    "Bg": 4,
+    "latencyMs": 0.0359795,
+    "securityBits": 711.8689060845077,
+    "noiseBudgetBits": 16.216747338112484,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 10000,
+    "Bg": 11,
+    "latencyMs": 0.036625000000000005,
+    "securityBits": 844.7891214266763,
+    "noiseBudgetBits": 13.350500700221854,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2236417,
+    "sigma": 6117,
+    "Bg": 4,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 701.730663317986,
+    "noiseBudgetBits": 16.479933509936476,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1376257,
+    "sigma": 7426,
+    "Bg": 4,
+    "latencyMs": 0.0372085,
+    "securityBits": 741.0362137811707,
+    "noiseBudgetBits": 15.49973315586093,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 6598,
+    "Bg": 4,
+    "latencyMs": 0.03808400000000001,
+    "securityBits": 720.7525111068222,
+    "noiseBudgetBits": 15.992217578383201,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 7942,
+    "Bg": 4,
+    "latencyMs": 0.036792000000000005,
+    "securityBits": 938.4905604589215,
+    "noiseBudgetBits": 11.817865140442844,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 3200,
+    "Bg": 9,
+    "latencyMs": 0.0360625,
+    "securityBits": 857.140764918592,
+    "noiseBudgetBits": 13.129295596192588,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 3816,
+    "Bg": 10,
+    "latencyMs": 0.036083,
+    "securityBits": 711.0446295250791,
+    "noiseBudgetBits": 16.237865053086107,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 4824,
+    "Bg": 4,
+    "latencyMs": 0.036208500000000005,
+    "securityBits": 732.359990200014,
+    "noiseBudgetBits": 15.707051413961516,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 8294,
+    "Bg": 8,
+    "latencyMs": 0.035875,
+    "securityBits": 808.7068682845428,
+    "noiseBudgetBits": 14.03539738386053,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 7774,
+    "Bg": 10,
+    "latencyMs": 0.035500000000000004,
+    "securityBits": 728.1459666891013,
+    "noiseBudgetBits": 15.8095280249447,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1769473,
+    "sigma": 5237,
+    "Bg": 12,
+    "latencyMs": 0.036021,
+    "securityBits": 706.0781718003936,
+    "noiseBudgetBits": 16.366147712701135,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 4072,
+    "Bg": 8,
+    "latencyMs": 0.0373125,
+    "securityBits": 738.5254582712171,
+    "noiseBudgetBits": 15.55922677378799,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 974849,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.0364375,
+    "securityBits": 782.4788013104561,
+    "noiseBudgetBits": 14.572891148337758,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 270337,
+    "sigma": 8404,
+    "Bg": 10,
+    "latencyMs": 0.0371455,
+    "securityBits": 866.0693251167926,
+    "noiseBudgetBits": 12.973323294011397,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3194881,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.0370835,
+    "securityBits": 685.6178206200838,
+    "noiseBudgetBits": 16.914234154928455,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2056193,
+    "sigma": 7230,
+    "Bg": 6,
+    "latencyMs": 0.03725,
+    "securityBits": 715.7665907396213,
+    "noiseBudgetBits": 16.117548608408608,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2482177,
+    "sigma": 8769,
+    "Bg": 5,
+    "latencyMs": 0.0383545,
+    "securityBits": 716.0347991903283,
+    "noiseBudgetBits": 16.110762234829608,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 4876,
+    "Bg": 11,
+    "latencyMs": 0.0385,
+    "securityBits": 749.6234720679005,
+    "noiseBudgetBits": 15.299266209243473,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4079617,
+    "sigma": 5594,
+    "Bg": 5,
+    "latencyMs": 0.038833,
+    "securityBits": 665.8376846667494,
+    "noiseBudgetBits": 17.47612203188894,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1376257,
+    "sigma": 6813,
+    "Bg": 7,
+    "latencyMs": 0.038521,
+    "securityBits": 735.8099865441955,
+    "noiseBudgetBits": 15.624028264287627,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 3208,
+    "Bg": 11,
+    "latencyMs": 0.038541000000000006,
+    "securityBits": 829.1379882915655,
+    "noiseBudgetBits": 13.64026275857938,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 10000,
+    "Bg": 11,
+    "latencyMs": 0.03875,
+    "securityBits": 676.7566979044958,
+    "noiseBudgetBits": 17.16188792834089,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 270337,
+    "sigma": 6349,
+    "Bg": 11,
+    "latencyMs": 0.038417,
+    "securityBits": 843.2855742791959,
+    "noiseBudgetBits": 13.377870078098315,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 188417,
+    "sigma": 8685,
+    "Bg": 6,
+    "latencyMs": 0.038459,
+    "securityBits": 900.2357932675988,
+    "noiseBudgetBits": 12.405043764067742,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 3200,
+    "Bg": 13,
+    "latencyMs": 0.038146,
+    "securityBits": 950.4572859010519,
+    "noiseBudgetBits": 11.643891411391671,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 6068,
+    "Bg": 14,
+    "latencyMs": 0.037542,
+    "securityBits": 786.5912774442381,
+    "noiseBudgetBits": 14.486244345519458,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5849089,
+    "sigma": 8287,
+    "Bg": 7,
+    "latencyMs": 0.0385,
+    "securityBits": 667.4549554297547,
+    "noiseBudgetBits": 17.42893058850739,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 4692,
+    "Bg": 9,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 663.505332348953,
+    "noiseBudgetBits": 17.544584448312857,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1794049,
+    "sigma": 6462,
+    "Bg": 14,
+    "latencyMs": 0.036020500000000004,
+    "securityBits": 717.1417534264756,
+    "noiseBudgetBits": 16.082807113153994,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 270337,
+    "sigma": 9661,
+    "Bg": 4,
+    "latencyMs": 0.036958,
+    "securityBits": 877.8592465273977,
+    "noiseBudgetBits": 12.772226927378243,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 3200,
+    "Bg": 8,
+    "latencyMs": 0.0370835,
+    "securityBits": 905.4588168342212,
+    "noiseBudgetBits": 12.321950108498722,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 737281,
+    "sigma": 3200,
+    "Bg": 5,
+    "latencyMs": 0.037666000000000005,
+    "securityBits": 727.9720367236415,
+    "noiseBudgetBits": 15.813783147996094,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 9538,
+    "Bg": 4,
+    "latencyMs": 0.038958,
+    "securityBits": 700.170914504055,
+    "noiseBudgetBits": 16.521100678947008,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 6890,
+    "Bg": 8,
+    "latencyMs": 0.038125,
+    "securityBits": 981.2658096256994,
+    "noiseBudgetBits": 11.215518030681794,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2236417,
+    "sigma": 8267,
+    "Bg": 6,
+    "latencyMs": 0.0372085,
+    "securityBits": 718.62859145241,
+    "noiseBudgetBits": 16.04539389921947,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 6850,
+    "Bg": 8,
+    "latencyMs": 0.0354375,
+    "securityBits": 844.6414729888099,
+    "noiseBudgetBits": 13.353184060584013,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 6467,
+    "Bg": 11,
+    "latencyMs": 0.036541000000000004,
+    "securityBits": 781.5631257867434,
+    "noiseBudgetBits": 14.592307866298212,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4866049,
+    "sigma": 7361,
+    "Bg": 7,
+    "latencyMs": 0.036604,
+    "securityBits": 670.7176930516229,
+    "noiseBudgetBits": 17.334417645967633,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 6448,
+    "Bg": 11,
+    "latencyMs": 0.03675,
+    "securityBits": 655.9208641353532,
+    "noiseBudgetBits": 17.770580124927978,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 778241,
+    "sigma": 5303,
+    "Bg": 9,
+    "latencyMs": 0.036958,
+    "securityBits": 755.5729880141683,
+    "noiseBudgetBits": 15.16304871364304,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3604481,
+    "sigma": 3200,
+    "Bg": 8,
+    "latencyMs": 0.038,
+    "securityBits": 645.0654174281858,
+    "noiseBudgetBits": 18.103288208662498,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 7649,
+    "Bg": 4,
+    "latencyMs": 0.038708,
+    "securityBits": 755.1239595138221,
+    "noiseBudgetBits": 15.173254585047541,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 6165,
+    "Bg": 13,
+    "latencyMs": 0.0383955,
+    "securityBits": 739.0895416001937,
+    "noiseBudgetBits": 15.54582532980142,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 3238,
+    "Bg": 10,
+    "latencyMs": 0.047979,
+    "securityBits": 705.8921566702443,
+    "noiseBudgetBits": 16.370987519072177,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3850241,
+    "sigma": 3633,
+    "Bg": 7,
+    "latencyMs": 0.0380625,
+    "securityBits": 647.8993443245442,
+    "noiseBudgetBits": 18.01535595551418,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1589249,
+    "sigma": 7649,
+    "Bg": 11,
+    "latencyMs": 0.0387085,
+    "securityBits": 734.1182209071562,
+    "noiseBudgetBits": 15.66464260208037,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 621.5174103385326,
+    "noiseBudgetBits": 18.864960151215282,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 9379,
+    "Bg": 8,
+    "latencyMs": 0.037125,
+    "securityBits": 673.5057016026342,
+    "noiseBudgetBits": 17.254381914128224,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 6007,
+    "Bg": 4,
+    "latencyMs": 0.037375,
+    "securityBits": 880.0596412924157,
+    "noiseBudgetBits": 12.735292236507831,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 5775,
+    "Bg": 4,
+    "latencyMs": 0.037771,
+    "securityBits": 773.9471428530906,
+    "noiseBudgetBits": 14.755583530155306,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3194881,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.038625,
+    "securityBits": 709.1960857374577,
+    "noiseBudgetBits": 16.28540267042688,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 6068,
+    "Bg": 6,
+    "latencyMs": 0.038208,
+    "securityBits": 676.3444914540503,
+    "noiseBudgetBits": 17.173566376094332,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 5919,
+    "Bg": 9,
+    "latencyMs": 0.046208,
+    "securityBits": 965.2590940480258,
+    "noiseBudgetBits": 11.434668556828733,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 6467,
+    "Bg": 10,
+    "latencyMs": 0.03725,
+    "securityBits": 655.2533907173145,
+    "noiseBudgetBits": 17.79071941284246,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 8893,
+    "Bg": 5,
+    "latencyMs": 0.0385,
+    "securityBits": 803.8275326462007,
+    "noiseBudgetBits": 14.132734291035723,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2056193,
+    "sigma": 6462,
+    "Bg": 8,
+    "latencyMs": 0.03875,
+    "securityBits": 709.4226290723984,
+    "noiseBudgetBits": 16.279563504981724,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 8104,
+    "Bg": 11,
+    "latencyMs": 0.037417,
+    "securityBits": 828.4212431551816,
+    "noiseBudgetBits": 13.653794620970165,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 3545,
+    "Bg": 13,
+    "latencyMs": 0.037125,
+    "securityBits": 672.1521324488818,
+    "noiseBudgetBits": 17.29315607874863,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 6185,
+    "Bg": 15,
+    "latencyMs": 0.038167,
+    "securityBits": 677.3178004798845,
+    "noiseBudgetBits": 17.146013866477634,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 6629,
+    "Bg": 4,
+    "latencyMs": 0.0390835,
+    "securityBits": 792.7253675147651,
+    "noiseBudgetBits": 14.358674178240502,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 8538,
+    "Bg": 7,
+    "latencyMs": 0.037416000000000005,
+    "securityBits": 945.6349578428941,
+    "noiseBudgetBits": 11.713469338719674,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4866049,
+    "sigma": 10000,
+    "Bg": 8,
+    "latencyMs": 0.041667,
+    "securityBits": 686.4105119730219,
+    "noiseBudgetBits": 16.892391322395248,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 6698,
+    "Bg": 4,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 719.4634276117537,
+    "noiseBudgetBits": 16.024454756577185,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 4429,
+    "Bg": 7,
+    "latencyMs": 0.0377705,
+    "securityBits": 984.2848882629561,
+    "noiseBudgetBits": 11.17498231928108,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3260417,
+    "sigma": 9756,
+    "Bg": 10,
+    "latencyMs": 0.037334,
+    "securityBits": 706.6865964317826,
+    "noiseBudgetBits": 16.35033530489751,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2236417,
+    "sigma": 9581,
+    "Bg": 12,
+    "latencyMs": 0.0369375,
+    "securityBits": 727.2046376690686,
+    "noiseBudgetBits": 15.832581543438067,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 9493,
+    "Bg": 9,
+    "latencyMs": 0.036833,
+    "securityBits": 768.1325220396868,
+    "noiseBudgetBits": 14.882420191720499,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 7048,
+    "Bg": 4,
+    "latencyMs": 0.041958,
+    "securityBits": 787.4536038866695,
+    "noiseBudgetBits": 14.468190552425675,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 10000,
+    "Bg": 8,
+    "latencyMs": 0.037958,
+    "securityBits": 771.5631096960425,
+    "noiseBudgetBits": 14.807356179987302,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 925697,
+    "sigma": 4542,
+    "Bg": 6,
+    "latencyMs": 0.038583,
+    "securityBits": 735.2749459398177,
+    "noiseBudgetBits": 15.636852814867197,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 3200,
+    "Bg": 11,
+    "latencyMs": 0.036166,
+    "securityBits": 708.6609975947846,
+    "noiseBudgetBits": 16.299209416086875,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 9075,
+    "Bg": 9,
+    "latencyMs": 0.0363125,
+    "securityBits": 927.0733175904313,
+    "noiseBudgetBits": 11.988037142202664,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 4693,
+    "Bg": 10,
+    "latencyMs": 0.037291,
+    "securityBits": 889.6249694690425,
+    "noiseBudgetBits": 12.57685704093905,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4046849,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.037291,
+    "securityBits": 696.2112112052985,
+    "noiseBudgetBits": 16.626439493195722,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4620289,
+    "sigma": 8455,
+    "Bg": 13,
+    "latencyMs": 0.037792,
+    "securityBits": 680.3834311769109,
+    "noiseBudgetBits": 17.05974691001569,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 6434,
+    "Bg": 10,
+    "latencyMs": 0.038833,
+    "securityBits": 655.816845152868,
+    "noiseBudgetBits": 17.773715932803206,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1196033,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.037375,
+    "securityBits": 700.524439665332,
+    "noiseBudgetBits": 16.51175386000136,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1843201,
+    "sigma": 8730,
+    "Bg": 9,
+    "latencyMs": 0.038542,
+    "securityBits": 733.1570780614485,
+    "noiseBudgetBits": 15.687800320074263,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2768897,
+    "sigma": 3200,
+    "Bg": 9,
+    "latencyMs": 0.038958,
+    "securityBits": 657.5096185935736,
+    "noiseBudgetBits": 17.72280805220565,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1318913,
+    "sigma": 3477,
+    "Bg": 9,
+    "latencyMs": 0.046375,
+    "securityBits": 699.7185338397701,
+    "noiseBudgetBits": 16.53307490490105,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1318913,
+    "sigma": 6822,
+    "Bg": 4,
+    "latencyMs": 0.037375,
+    "securityBits": 738.4625245636158,
+    "noiseBudgetBits": 15.560723217015273,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 8494,
+    "Bg": 12,
+    "latencyMs": 0.0378335,
+    "securityBits": 719.1425330774836,
+    "noiseBudgetBits": 16.032497597528106,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 3384,
+    "Bg": 4,
+    "latencyMs": 0.03725,
+    "securityBits": 623.9293335712481,
+    "noiseBudgetBits": 18.784302487870058,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5849089,
+    "sigma": 3200,
+    "Bg": 12,
+    "latencyMs": 0.0376045,
+    "securityBits": 623.4072520623607,
+    "noiseBudgetBits": 18.80170860556943,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.0375205,
+    "securityBits": 767.7029095455697,
+    "noiseBudgetBits": 14.891867724815809,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1073153,
+    "sigma": 4693,
+    "Bg": 13,
+    "latencyMs": 0.0395415,
+    "securityBits": 728.4164875135896,
+    "noiseBudgetBits": 15.802913885523584,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 9270,
+    "Bg": 11,
+    "latencyMs": 0.037625,
+    "securityBits": 766.5753102208396,
+    "noiseBudgetBits": 14.916714936023858,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1794049,
+    "sigma": 8769,
+    "Bg": 7,
+    "latencyMs": 0.0385,
+    "securityBits": 735.0447775634156,
+    "noiseBudgetBits": 15.64237553389215,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4423681,
+    "sigma": 6925,
+    "Bg": 6,
+    "latencyMs": 0.038333,
+    "securityBits": 672.4363367713304,
+    "noiseBudgetBits": 17.285001852019032,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 9554,
+    "Bg": 11,
+    "latencyMs": 0.037917000000000006,
+    "securityBits": 766.706454648966,
+    "noiseBudgetBits": 14.913821347620354,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1769473,
+    "sigma": 5454,
+    "Bg": 12,
+    "latencyMs": 0.037291,
+    "securityBits": 708.3372308710342,
+    "noiseBudgetBits": 16.30757361723522,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 3200,
+    "Bg": 12,
+    "latencyMs": 0.037083,
+    "securityBits": 679.3011568581471,
+    "noiseBudgetBits": 17.090113227509175,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1843201,
+    "sigma": 7271,
+    "Bg": 7,
+    "latencyMs": 0.0373125,
+    "securityBits": 722.3821633945255,
+    "noiseBudgetBits": 15.951628178446075,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 4693,
+    "Bg": 4,
+    "latencyMs": 0.0383955,
+    "securityBits": 663.5157698148024,
+    "noiseBudgetBits": 17.5442770013131,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.0375,
+    "securityBits": 926.2805602607541,
+    "noiseBudgetBits": 12.000008805484851,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 5636,
+    "Bg": 14,
+    "latencyMs": 0.038417,
+    "securityBits": 874.6006594932524,
+    "noiseBudgetBits": 12.827265288724664,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3588097,
+    "sigma": 6926,
+    "Bg": 4,
+    "latencyMs": 0.0371875,
+    "securityBits": 683.1426269749944,
+    "noiseBudgetBits": 16.982765074144137,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 6165,
+    "Bg": 9,
+    "latencyMs": 0.037417,
+    "securityBits": 652.9769392978236,
+    "noiseBudgetBits": 17.859715128600136,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 270337,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.037291,
+    "securityBits": 792.3546659848673,
+    "noiseBudgetBits": 14.366327550909718,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 5334,
+    "Bg": 14,
+    "latencyMs": 0.037750000000000006,
+    "securityBits": 825.2436075018508,
+    "noiseBudgetBits": 13.714070223768339,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2654209,
+    "sigma": 6752,
+    "Bg": 4,
+    "latencyMs": 0.038458,
+    "securityBits": 697.7810072596805,
+    "noiseBudgetBits": 16.584535642389532,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 8294,
+    "Bg": 4,
+    "latencyMs": 0.037396,
+    "securityBits": 830.194398792754,
+    "noiseBudgetBits": 13.620360747865341,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 270337,
+    "sigma": 6796,
+    "Bg": 12,
+    "latencyMs": 0.036833,
+    "securityBits": 848.7028184238579,
+    "noiseBudgetBits": 13.279713603500221,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 8755,
+    "Bg": 8,
+    "latencyMs": 0.038333,
+    "securityBits": 720.8880586530621,
+    "noiseBudgetBits": 15.988834527554587,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 8748,
+    "Bg": 14,
+    "latencyMs": 0.0383545,
+    "securityBits": 923.5775960559938,
+    "noiseBudgetBits": 12.040981564925046,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 3545,
+    "Bg": 9,
+    "latencyMs": 0.0386875,
+    "securityBits": 669.0135106075295,
+    "noiseBudgetBits": 17.383668333131045,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 10000,
+    "Bg": 8,
+    "latencyMs": 0.0384375,
+    "securityBits": 745.6128507481167,
+    "noiseBudgetBits": 15.392318261398682,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3489793,
+    "sigma": 6675,
+    "Bg": 5,
+    "latencyMs": 0.0384585,
+    "securityBits": 682.668743968074,
+    "noiseBudgetBits": 16.995942196829894,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 6578,
+    "Bg": 8,
+    "latencyMs": 0.038125,
+    "securityBits": 701.2801634759367,
+    "noiseBudgetBits": 16.49180495242252,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 8685,
+    "Bg": 10,
+    "latencyMs": 0.0374585,
+    "securityBits": 670.4926846077028,
+    "noiseBudgetBits": 17.340906019858192,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1843201,
+    "sigma": 7562,
+    "Bg": 4,
+    "latencyMs": 0.037833,
+    "securityBits": 724.6675476031284,
+    "noiseBudgetBits": 15.89501412460383,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 9521,
+    "Bg": 4,
+    "latencyMs": 0.036083,
+    "securityBits": 808.7626514181039,
+    "noiseBudgetBits": 14.034291367512715,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 8294,
+    "Bg": 10,
+    "latencyMs": 0.036041000000000004,
+    "securityBits": 908.7635025571435,
+    "noiseBudgetBits": 12.26986885312834,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1417217,
+    "sigma": 5592,
+    "Bg": 6,
+    "latencyMs": 0.035521,
+    "securityBits": 722.3967827975893,
+    "noiseBudgetBits": 15.95126488490125,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 3478,
+    "Bg": 13,
+    "latencyMs": 0.0447295,
+    "securityBits": 705.8659994312364,
+    "noiseBudgetBits": 16.371668291785035,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 5302,
+    "Bg": 4,
+    "latencyMs": 0.0361455,
+    "securityBits": 655.1733902573021,
+    "noiseBudgetBits": 17.793135974138362,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 8730,
+    "Bg": 9,
+    "latencyMs": 0.036125,
+    "securityBits": 1063.2957935411243,
+    "noiseBudgetBits": 10.195981662649594,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 8500,
+    "Bg": 4,
+    "latencyMs": 0.0375205,
+    "securityBits": 735.694971742196,
+    "noiseBudgetBits": 15.626783515035704,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4882433,
+    "sigma": 5305,
+    "Bg": 6,
+    "latencyMs": 0.0365625,
+    "securityBits": 654.555642833492,
+    "noiseBudgetBits": 17.81181606480906,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2482177,
+    "sigma": 9842,
+    "Bg": 13,
+    "latencyMs": 0.037167,
+    "securityBits": 722.6802723722019,
+    "noiseBudgetBits": 15.944223048226679,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4882433,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.045708,
+    "securityBits": 664.1343872683833,
+    "noiseBudgetBits": 17.526072205563313,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1253377,
+    "sigma": 7770,
+    "Bg": 8,
+    "latencyMs": 0.0372085,
+    "securityBits": 749.6144509262227,
+    "noiseBudgetBits": 15.29947439510649,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 10000,
+    "Bg": 14,
+    "latencyMs": 0.0400005,
+    "securityBits": 728.6579806708231,
+    "noiseBudgetBits": 15.797013611326058,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 6484,
+    "Bg": 9,
+    "latencyMs": 0.0385625,
+    "securityBits": 886.6932768654041,
+    "noiseBudgetBits": 12.62505280951676,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 5231,
+    "Bg": 4,
+    "latencyMs": 0.038625,
+    "securityBits": 733.5218768323001,
+    "noiseBudgetBits": 15.679003734696746,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 7626,
+    "Bg": 9,
+    "latencyMs": 0.03808400000000001,
+    "securityBits": 901.1136582638293,
+    "noiseBudgetBits": 12.391010369308185,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 8494,
+    "Bg": 12,
+    "latencyMs": 0.0382085,
+    "securityBits": 1059.8598865925494,
+    "noiseBudgetBits": 10.235519207818994,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 319489,
+    "sigma": 8104,
+    "Bg": 8,
+    "latencyMs": 0.038625,
+    "securityBits": 849.4222304502266,
+    "noiseBudgetBits": 13.266772560363169,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 319489,
+    "sigma": 8370,
+    "Bg": 9,
+    "latencyMs": 0.0385,
+    "securityBits": 852.0225619426956,
+    "noiseBudgetBits": 13.220179111726601,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 9447,
+    "Bg": 5,
+    "latencyMs": 0.037604,
+    "securityBits": 774.7867997128908,
+    "noiseBudgetBits": 14.737425063005034,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2572289,
+    "sigma": 10000,
+    "Bg": 10,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 721.5354896991474,
+    "noiseBudgetBits": 15.972693214864776,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 6463,
+    "Bg": 11,
+    "latencyMs": 0.042042,
+    "securityBits": 655.2238382243347,
+    "noiseBudgetBits": 17.7916120316124,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1253377,
+    "sigma": 6813,
+    "Bg": 11,
+    "latencyMs": 0.037416500000000005,
+    "securityBits": 741.4868060359383,
+    "noiseBudgetBits": 15.489098786973521,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4620289,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.037437,
+    "securityBits": 633.7731264990683,
+    "noiseBudgetBits": 18.46147975953831,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 9149,
+    "Bg": 9,
+    "latencyMs": 0.0387085,
+    "securityBits": 723.4420624410644,
+    "noiseBudgetBits": 15.92532764302247,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 10000,
+    "Bg": 8,
+    "latencyMs": 0.0371875,
+    "securityBits": 743.3076316571339,
+    "noiseBudgetBits": 15.446257037734451,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 4171,
+    "Bg": 12,
+    "latencyMs": 0.037375,
+    "securityBits": 716.0834055119151,
+    "noiseBudgetBits": 16.109532912202393,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 6796,
+    "Bg": 13,
+    "latencyMs": 0.0380415,
+    "securityBits": 890.8231339401952,
+    "noiseBudgetBits": 12.55725104785008,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 4927,
+    "Bg": 11,
+    "latencyMs": 0.038833,
+    "securityBits": 819.2735650210241,
+    "noiseBudgetBits": 13.82857857700708,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 8494,
+    "Bg": 13,
+    "latencyMs": 0.036666,
+    "securityBits": 945.1212304687218,
+    "noiseBudgetBits": 11.72092339261991,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 6360,
+    "Bg": 10,
+    "latencyMs": 0.037125,
+    "securityBits": 740.9868293021059,
+    "noiseBudgetBits": 15.500899458919903,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4046849,
+    "sigma": 3677,
+    "Bg": 11,
+    "latencyMs": 0.0370205,
+    "securityBits": 646.1405285925136,
+    "noiseBudgetBits": 18.069838411541873,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 6813,
+    "Bg": 11,
+    "latencyMs": 0.037375,
+    "securityBits": 1032.999337057796,
+    "noiseBudgetBits": 10.553673109738353,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1376257,
+    "sigma": 3501,
+    "Bg": 8,
+    "latencyMs": 0.0374585,
+    "securityBits": 697.7804152711265,
+    "noiseBudgetBits": 16.58455140928717,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.037208,
+    "securityBits": 677.6189911288981,
+    "noiseBudgetBits": 17.137503773906495,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2236417,
+    "sigma": 10000,
+    "Bg": 7,
+    "latencyMs": 0.038021,
+    "securityBits": 729.7316009098059,
+    "noiseBudgetBits": 15.770829691124781,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 3545,
+    "Bg": 14,
+    "latencyMs": 0.037313,
+    "securityBits": 625.9488221336769,
+    "noiseBudgetBits": 18.717246428863128,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 737281,
+    "sigma": 7670,
+    "Bg": 6,
+    "latencyMs": 0.0461875,
+    "securityBits": 783.4366619952717,
+    "noiseBudgetBits": 14.552628475380523,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 9077,
+    "Bg": 10,
+    "latencyMs": 0.0435,
+    "securityBits": 805.3023575019367,
+    "noiseBudgetBits": 14.103188919285897,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 6141,
+    "Bg": 4,
+    "latencyMs": 0.037854,
+    "securityBits": 778.0638258084876,
+    "noiseBudgetBits": 14.66693087360152,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 3200,
+    "Bg": 9,
+    "latencyMs": 0.037125,
+    "securityBits": 701.2782912989683,
+    "noiseBudgetBits": 16.491854319316896,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2752513,
+    "sigma": 4820,
+    "Bg": 6,
+    "latencyMs": 0.037292,
+    "securityBits": 678.1228295929246,
+    "noiseBudgetBits": 17.12328480046103,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1712129,
+    "sigma": 5454,
+    "Bg": 10,
+    "latencyMs": 0.037375,
+    "securityBits": 710.1809335674488,
+    "noiseBudgetBits": 16.26004527446016,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 9766,
+    "Bg": 9,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 873.7606231362354,
+    "noiseBudgetBits": 12.841520270681801,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 319489,
+    "sigma": 7932,
+    "Bg": 12,
+    "latencyMs": 0.0370835,
+    "securityBits": 847.7037268513311,
+    "noiseBudgetBits": 13.29772205693546,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 5348,
+    "Bg": 8,
+    "latencyMs": 0.03725,
+    "securityBits": 730.5498003604976,
+    "noiseBudgetBits": 15.750926758998268,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 8294,
+    "Bg": 7,
+    "latencyMs": 0.036792000000000005,
+    "securityBits": 798.846007804155,
+    "noiseBudgetBits": 14.233336429440126,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 5334,
+    "Bg": 12,
+    "latencyMs": 0.0382295,
+    "securityBits": 706.5852503609045,
+    "noiseBudgetBits": 16.352967307732975,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1908737,
+    "sigma": 8851,
+    "Bg": 10,
+    "latencyMs": 0.0383125,
+    "securityBits": 731.8931281365258,
+    "noiseBudgetBits": 15.718346438116836,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3735553,
+    "sigma": 9606,
+    "Bg": 8,
+    "latencyMs": 0.037479,
+    "securityBits": 698.3665093203139,
+    "noiseBudgetBits": 16.568954591796018,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 925697,
+    "sigma": 4936,
+    "Bg": 4,
+    "latencyMs": 0.037958,
+    "securityBits": 740.3126013043122,
+    "noiseBudgetBits": 15.516838126424666,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1843201,
+    "sigma": 5918,
+    "Bg": 4,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 710.623534845443,
+    "noiseBudgetBits": 16.248672277397144,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 7028,
+    "Bg": 6,
+    "latencyMs": 0.035500000000000004,
+    "securityBits": 668.9137750488716,
+    "noiseBudgetBits": 17.386558452997246,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1892353,
+    "sigma": 9574,
+    "Bg": 4,
+    "latencyMs": 0.036917,
+    "securityBits": 737.1232996949512,
+    "noiseBudgetBits": 15.592627997740145,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4079617,
+    "sigma": 5968,
+    "Bg": 4,
+    "latencyMs": 0.035875,
+    "securityBits": 669.045043761206,
+    "noiseBudgetBits": 17.382754750109896,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2752513,
+    "sigma": 3200,
+    "Bg": 9,
+    "latencyMs": 0.035375,
+    "securityBits": 657.7951788012473,
+    "noiseBudgetBits": 17.71424604180363,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 9770,
+    "Bg": 11,
+    "latencyMs": 0.035917000000000004,
+    "securityBits": 676.4324455186038,
+    "noiseBudgetBits": 17.1710733066002,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 3610,
+    "Bg": 11,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 711.97269875762,
+    "noiseBudgetBits": 16.214091667600208,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 6094,
+    "Bg": 9,
+    "latencyMs": 0.03675,
+    "securityBits": 968.2887951150676,
+    "noiseBudgetBits": 11.392632513586962,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 3418,
+    "Bg": 5,
+    "latencyMs": 0.036833,
+    "securityBits": 667.2018314584242,
+    "noiseBudgetBits": 17.436301563581782,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4423681,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.037,
+    "securityBits": 691.4430050835421,
+    "noiseBudgetBits": 16.754887828293494,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1597441,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.0371045,
+    "securityBits": 685.073609401048,
+    "noiseBudgetBits": 16.9292593117661,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 3359,
+    "Bg": 4,
+    "latencyMs": 0.038708,
+    "securityBits": 909.9035153410572,
+    "noiseBudgetBits": 12.25199021803895,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3391489,
+    "sigma": 9270,
+    "Bg": 6,
+    "latencyMs": 0.038,
+    "securityBits": 701.6932800145852,
+    "noiseBudgetBits": 16.480918044035498,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2654209,
+    "sigma": 8549,
+    "Bg": 11,
+    "latencyMs": 0.0384795,
+    "securityBits": 710.8018287878851,
+    "noiseBudgetBits": 16.244094872566574,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 925697,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.037750000000000006,
+    "securityBits": 714.797616673216,
+    "noiseBudgetBits": 16.14210861579936,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1990657,
+    "sigma": 6722,
+    "Bg": 4,
+    "latencyMs": 0.038146,
+    "securityBits": 713.4678235734062,
+    "noiseBudgetBits": 16.17592268569316,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 3200,
+    "Bg": 12,
+    "latencyMs": 0.038187,
+    "securityBits": 705.238355604126,
+    "noiseBudgetBits": 16.388018599600017,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5767169,
+    "sigma": 9617,
+    "Bg": 5,
+    "latencyMs": 0.038333,
+    "securityBits": 675.6299237528509,
+    "noiseBudgetBits": 17.193844949863028,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 7896,
+    "Bg": 4,
+    "latencyMs": 0.037542,
+    "securityBits": 674.7613924221886,
+    "noiseBudgetBits": 17.218550654549226,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 3288,
+    "Bg": 8,
+    "latencyMs": 0.0385,
+    "securityBits": 859.3638771394517,
+    "noiseBudgetBits": 13.09015720228563,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 8859,
+    "Bg": 9,
+    "latencyMs": 0.037584,
+    "securityBits": 788.9084819577645,
+    "noiseBudgetBits": 14.437820478008575,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1810433,
+    "sigma": 4983,
+    "Bg": 10,
+    "latencyMs": 0.0385625,
+    "securityBits": 702.0742830990766,
+    "noiseBudgetBits": 16.470888782248654,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 286721,
+    "sigma": 10000,
+    "Bg": 7,
+    "latencyMs": 0.038459,
+    "securityBits": 875.7763734039899,
+    "noiseBudgetBits": 12.807359953769815,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 3347,
+    "Bg": 4,
+    "latencyMs": 0.0384165,
+    "securityBits": 860.8275683645152,
+    "noiseBudgetBits": 13.064498950280784,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 8020,
+    "Bg": 11,
+    "latencyMs": 0.0384375,
+    "securityBits": 760.0260756982417,
+    "noiseBudgetBits": 15.06248826803246,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 3542,
+    "Bg": 8,
+    "latencyMs": 0.037750000000000006,
+    "securityBits": 625.911920586659,
+    "noiseBudgetBits": 18.71846784423809,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 7293,
+    "Bg": 11,
+    "latencyMs": 0.0379165,
+    "securityBits": 752.1126300708589,
+    "noiseBudgetBits": 15.242013338850924,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 3305,
+    "Bg": 10,
+    "latencyMs": 0.037667,
+    "securityBits": 682.8968842864782,
+    "noiseBudgetBits": 16.989596084553074,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 10000,
+    "Bg": 10,
+    "latencyMs": 0.0374795,
+    "securityBits": 822.5495727449572,
+    "noiseBudgetBits": 13.765537336217042,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 9116,
+    "Bg": 12,
+    "latencyMs": 0.037334,
+    "securityBits": 837.5040466506354,
+    "noiseBudgetBits": 13.484027870506006,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 9661,
+    "Bg": 8,
+    "latencyMs": 0.0373955,
+    "securityBits": 672.929818276696,
+    "noiseBudgetBits": 17.270859527683807,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2654209,
+    "sigma": 3200,
+    "Bg": 8,
+    "latencyMs": 0.038542,
+    "securityBits": 659.5505033682996,
+    "noiseBudgetBits": 17.66177864132199,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 4182,
+    "Bg": 11,
+    "latencyMs": 0.037292,
+    "securityBits": 644.0341262755255,
+    "noiseBudgetBits": 18.135479582416043,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 557057,
+    "sigma": 5454,
+    "Bg": 9,
+    "latencyMs": 0.037104,
+    "securityBits": 779.3160176101736,
+    "noiseBudgetBits": 14.640150730851229,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 7298,
+    "Bg": 4,
+    "latencyMs": 0.041749999999999995,
+    "securityBits": 754.0116071869638,
+    "noiseBudgetBits": 15.198589353790261,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5308417,
+    "sigma": 3239,
+    "Bg": 11,
+    "latencyMs": 0.03725,
+    "securityBits": 628.1605511066631,
+    "noiseBudgetBits": 18.644301806526553,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 3658,
+    "Bg": 14,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 637.9152913777812,
+    "noiseBudgetBits": 18.328617569256906,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4046849,
+    "sigma": 5608,
+    "Bg": 11,
+    "latencyMs": 0.038417,
+    "securityBits": 666.3591355867729,
+    "noiseBudgetBits": 17.460881238734547,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1589249,
+    "sigma": 4674,
+    "Bg": 6,
+    "latencyMs": 0.037958500000000006,
+    "securityBits": 705.7281808108487,
+    "noiseBudgetBits": 16.375256015850816,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1662977,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 682.9807285158653,
+    "noiseBudgetBits": 16.98726487961038,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 6867,
+    "Bg": 9,
+    "latencyMs": 0.043833,
+    "securityBits": 1033.9374127608417,
+    "noiseBudgetBits": 10.542283352889553,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1376257,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.0374795,
+    "securityBits": 759.6742496355506,
+    "noiseBudgetBits": 15.070390376166223,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 737281,
+    "sigma": 5514,
+    "Bg": 6,
+    "latencyMs": 0.037458,
+    "securityBits": 761.5316211677505,
+    "noiseBudgetBits": 15.028755785760627,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 7944,
+    "Bg": 4,
+    "latencyMs": 0.036834,
+    "securityBits": 715.3114665292836,
+    "noiseBudgetBits": 16.129076083347133,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 9493,
+    "Bg": 8,
+    "latencyMs": 0.0373955,
+    "securityBits": 956.3019601943467,
+    "noiseBudgetBits": 11.560503418151061,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 8730,
+    "Bg": 9,
+    "latencyMs": 0.0386875,
+    "securityBits": 1007.2934088770504,
+    "noiseBudgetBits": 10.874040359756645,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2752513,
+    "sigma": 8945,
+    "Bg": 8,
+    "latencyMs": 0.0376045,
+    "securityBits": 711.3031540758263,
+    "noiseBudgetBits": 16.231236464639085,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 8348,
+    "Bg": 7,
+    "latencyMs": 0.038625,
+    "securityBits": 919.1573982703966,
+    "noiseBudgetBits": 12.108504184813304,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1589249,
+    "sigma": 6158,
+    "Bg": 7,
+    "latencyMs": 0.038416,
+    "securityBits": 721.3444978016853,
+    "noiseBudgetBits": 15.977451882588827,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 5836,
+    "Bg": 13,
+    "latencyMs": 0.0401665,
+    "securityBits": 877.578244626347,
+    "noiseBudgetBits": 12.77695701711641,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1073153,
+    "sigma": 3200,
+    "Bg": 11,
+    "latencyMs": 0.036667,
+    "securityBits": 706.4934351895762,
+    "noiseBudgetBits": 16.35535244077712,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3686401,
+    "sigma": 8335,
+    "Bg": 11,
+    "latencyMs": 0.037438,
+    "securityBits": 691.4536394472302,
+    "noiseBudgetBits": 16.75459938336137,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.036000000000000004,
+    "securityBits": 724.9709153382895,
+    "noiseBudgetBits": 15.887525865708472,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 4857,
+    "Bg": 11,
+    "latencyMs": 0.035916500000000004,
+    "securityBits": 685.0689348814067,
+    "noiseBudgetBits": 16.9293884742342,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3686401,
+    "sigma": 4879,
+    "Bg": 8,
+    "latencyMs": 0.0361665,
+    "securityBits": 664.0961628105333,
+    "noiseBudgetBits": 17.52719609930912,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 10000,
+    "Bg": 8,
+    "latencyMs": 0.035250000000000004,
+    "securityBits": 812.3503734304081,
+    "noiseBudgetBits": 13.963476381796639,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 737281,
+    "sigma": 7379,
+    "Bg": 12,
+    "latencyMs": 0.035417000000000004,
+    "securityBits": 780.8044592531743,
+    "noiseBudgetBits": 14.608429737201554,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1179649,
+    "sigma": 3437,
+    "Bg": 15,
+    "latencyMs": 0.036083,
+    "securityBits": 705.2092938189506,
+    "noiseBudgetBits": 16.388776372719324,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 188417,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.037291,
+    "securityBits": 913.1293719432155,
+    "noiseBudgetBits": 12.201641518116048,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 6467,
+    "Bg": 15,
+    "latencyMs": 0.036625000000000005,
+    "securityBits": 1026.8487507051764,
+    "noiseBudgetBits": 10.62886670611852,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4816897,
+    "sigma": 6003,
+    "Bg": 12,
+    "latencyMs": 0.0455835,
+    "securityBits": 661.157504249512,
+    "noiseBudgetBits": 17.613988976378725,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5324801,
+    "sigma": 7306,
+    "Bg": 6,
+    "latencyMs": 0.0369375,
+    "securityBits": 665.8687148137524,
+    "noiseBudgetBits": 17.475214425154682,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1990657,
+    "sigma": 7151,
+    "Bg": 11,
+    "latencyMs": 0.036771,
+    "securityBits": 716.9886591968403,
+    "noiseBudgetBits": 16.086668225026713,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 9493,
+    "Bg": 12,
+    "latencyMs": 0.039604,
+    "securityBits": 742.4086676082612,
+    "noiseBudgetBits": 15.467382273131879,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1810433,
+    "sigma": 3353,
+    "Bg": 8,
+    "latencyMs": 0.047875,
+    "securityBits": 681.0014155421972,
+    "noiseBudgetBits": 17.042450873138403,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 9633,
+    "Bg": 8,
+    "latencyMs": 0.037917000000000006,
+    "securityBits": 674.8568977425591,
+    "noiseBudgetBits": 17.21583085744341,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 9249,
+    "Bg": 8,
+    "latencyMs": 0.0385,
+    "securityBits": 791.9027691224213,
+    "noiseBudgetBits": 14.375666945035354,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1720321,
+    "sigma": 5454,
+    "Bg": 11,
+    "latencyMs": 0.038375,
+    "securityBits": 709.9132051395828,
+    "noiseBudgetBits": 16.266931656032867,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2654209,
+    "sigma": 3209,
+    "Bg": 4,
+    "latencyMs": 0.0383545,
+    "securityBits": 659.6864510543822,
+    "noiseBudgetBits": 17.65772675681491,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1794049,
+    "sigma": 3200,
+    "Bg": 7,
+    "latencyMs": 0.038583,
+    "securityBits": 679.0662870036416,
+    "noiseBudgetBits": 17.096715958644634,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3260417,
+    "sigma": 9604,
+    "Bg": 4,
+    "latencyMs": 0.037875,
+    "securityBits": 705.8152342300303,
+    "noiseBudgetBits": 16.37298965946328,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 9165,
+    "Bg": 9,
+    "latencyMs": 0.0385,
+    "securityBits": 772.7681804118948,
+    "noiseBudgetBits": 14.781146440434352,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3489793,
+    "sigma": 6566,
+    "Bg": 13,
+    "latencyMs": 0.038541000000000006,
+    "securityBits": 681.8161808880566,
+    "noiseBudgetBits": 17.01969528371919,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 7537,
+    "Bg": 10,
+    "latencyMs": 0.038479,
+    "securityBits": 990.9754443243452,
+    "noiseBudgetBits": 11.08603162093652,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4620289,
+    "sigma": 6796,
+    "Bg": 11,
+    "latencyMs": 0.037521,
+    "securityBits": 669.3174613824666,
+    "noiseBudgetBits": 17.374865812128814,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1073153,
+    "sigma": 6737,
+    "Bg": 4,
+    "latencyMs": 0.038625,
+    "securityBits": 750.4020217125717,
+    "noiseBudgetBits": 15.281318046564564,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 778241,
+    "sigma": 6158,
+    "Bg": 4,
+    "latencyMs": 0.03825,
+    "securityBits": 765.1875432721755,
+    "noiseBudgetBits": 14.94739559473897,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 188417,
+    "sigma": 7438,
+    "Bg": 4,
+    "latencyMs": 0.038542,
+    "securityBits": 886.4749438432093,
+    "noiseBudgetBits": 12.628654865053509,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1990657,
+    "sigma": 6919,
+    "Bg": 10,
+    "latencyMs": 0.037584,
+    "securityBits": 715.1073920058502,
+    "noiseBudgetBits": 16.134249687484576,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 10000,
+    "Bg": 4,
+    "latencyMs": 0.037583000000000005,
+    "securityBits": 772.5172354524461,
+    "noiseBudgetBits": 14.786597638051362,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 8294,
+    "Bg": 5,
+    "latencyMs": 0.038,
+    "securityBits": 918.5478401657862,
+    "noiseBudgetBits": 12.117866738067178,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 6430,
+    "Bg": 7,
+    "latencyMs": 0.0379375,
+    "securityBits": 973.9194912117823,
+    "noiseBudgetBits": 11.315203276058138,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1769473,
+    "sigma": 6769,
+    "Bg": 10,
+    "latencyMs": 0.036875000000000005,
+    "securityBits": 720.6032007318404,
+    "noiseBudgetBits": 15.99594560061604,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6144001,
+    "sigma": 5918,
+    "Bg": 12,
+    "latencyMs": 0.0373955,
+    "securityBits": 648.8627702977798,
+    "noiseBudgetBits": 17.985637323665035,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1662977,
+    "sigma": 5699,
+    "Bg": 4,
+    "latencyMs": 0.036791500000000005,
+    "securityBits": 714.3046944108883,
+    "noiseBudgetBits": 16.154627992043512,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 778241,
+    "sigma": 3200,
+    "Bg": 4,
+    "latencyMs": 0.0385,
+    "securityBits": 724.7983136551647,
+    "noiseBudgetBits": 15.891785557009062,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4866049,
+    "sigma": 6467,
+    "Bg": 4,
+    "latencyMs": 0.0369165,
+    "securityBits": 664.2993693724168,
+    "noiseBudgetBits": 17.521222806896823,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1810433,
+    "sigma": 8104,
+    "Bg": 8,
+    "latencyMs": 0.0386665,
+    "securityBits": 729.7956864225278,
+    "noiseBudgetBits": 15.769269182131051,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 417793,
+    "sigma": 8510,
+    "Bg": 4,
+    "latencyMs": 0.038541500000000006,
+    "securityBits": 832.1704161114245,
+    "noiseBudgetBits": 13.583269663197978,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2768897,
+    "sigma": 8505,
+    "Bg": 9,
+    "latencyMs": 0.0381245,
+    "securityBits": 708.144018311573,
+    "noiseBudgetBits": 16.312568721429628,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5865473,
+    "sigma": 7246,
+    "Bg": 14,
+    "latencyMs": 0.038417,
+    "securityBits": 660.7316281807338,
+    "noiseBudgetBits": 17.62663121743705,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 3200,
+    "Bg": 11,
+    "latencyMs": 0.0387295,
+    "securityBits": 828.9470667210155,
+    "noiseBudgetBits": 13.643864995259577,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 3354,
+    "Bg": 13,
+    "latencyMs": 0.038708,
+    "securityBits": 705.4154770733662,
+    "noiseBudgetBits": 16.383401585972404,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1376257,
+    "sigma": 7535,
+    "Bg": 5,
+    "latencyMs": 0.0378545,
+    "securityBits": 741.9274813942528,
+    "noiseBudgetBits": 15.478710959230487,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 5197,
+    "Bg": 10,
+    "latencyMs": 0.039292,
+    "securityBits": 691.9456945944987,
+    "noiseBudgetBits": 16.741262647207606,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1769473,
+    "sigma": 10000,
+    "Bg": 9,
+    "latencyMs": 0.0387085,
+    "securityBits": 743.8745820797355,
+    "noiseBudgetBits": 15.432960222601036,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1843201,
+    "sigma": 6743,
+    "Bg": 4,
+    "latencyMs": 0.038104,
+    "securityBits": 718.0318371751307,
+    "noiseBudgetBits": 16.060391376262988,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6209537,
+    "sigma": 9661,
+    "Bg": 6,
+    "latencyMs": 0.0375205,
+    "securityBits": 672.126852102715,
+    "noiseBudgetBits": 17.293881741862364,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1097729,
+    "sigma": 6835,
+    "Bg": 11,
+    "latencyMs": 0.038479,
+    "securityBits": 749.8886336350652,
+    "noiseBudgetBits": 15.29314916688132,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 8608,
+    "Bg": 8,
+    "latencyMs": 0.037416500000000005,
+    "securityBits": 1005.7073135826113,
+    "noiseBudgetBits": 10.894343935716822,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 9219,
+    "Bg": 9,
+    "latencyMs": 0.038458,
+    "securityBits": 791.6761717434566,
+    "noiseBudgetBits": 14.380354067549568,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 925697,
+    "sigma": 9259,
+    "Bg": 8,
+    "latencyMs": 0.0383545,
+    "securityBits": 780.7624136319002,
+    "noiseBudgetBits": 14.609324134440069,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 319489,
+    "sigma": 3318,
+    "Bg": 8,
+    "latencyMs": 0.038459,
+    "securityBits": 783.3200404794687,
+    "noiseBudgetBits": 14.555092848208444,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2277377,
+    "sigma": 5878,
+    "Bg": 10,
+    "latencyMs": 0.036666,
+    "securityBits": 698.5673350192404,
+    "noiseBudgetBits": 16.563616347224176,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 3200,
+    "Bg": 12,
+    "latencyMs": 0.036917,
+    "securityBits": 837.0804789768389,
+    "noiseBudgetBits": 13.491862880198415,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 3735553,
+    "sigma": 3226,
+    "Bg": 5,
+    "latencyMs": 0.038417,
+    "securityBits": 643.7890740662262,
+    "noiseBudgetBits": 18.14314396187779,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 9412,
+    "Bg": 4,
+    "latencyMs": 0.037417,
+    "securityBits": 920.5320532990077,
+    "noiseBudgetBits": 12.087435579810004,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 8782,
+    "Bg": 9,
+    "latencyMs": 0.038584,
+    "securityBits": 802.9256684177655,
+    "noiseBudgetBits": 14.150854942219546,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 8340,
+    "Bg": 4,
+    "latencyMs": 0.0373125,
+    "securityBits": 799.2388657864075,
+    "noiseBudgetBits": 14.225357093014061,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1032193,
+    "sigma": 9866,
+    "Bg": 9,
+    "latencyMs": 0.038625,
+    "securityBits": 777.6958962342787,
+    "noiseBudgetBits": 14.674816033867108,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4882433,
+    "sigma": 4999,
+    "Bg": 11,
+    "latencyMs": 0.036917,
+    "securityBits": 651.7359925292956,
+    "noiseBudgetBits": 17.897529288927664,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2768897,
+    "sigma": 6068,
+    "Bg": 10,
+    "latencyMs": 0.037166000000000005,
+    "securityBits": 689.796346225103,
+    "noiseBudgetBits": 16.79965887173334,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 6957,
+    "Bg": 14,
+    "latencyMs": 0.036792000000000005,
+    "securityBits": 902.3389036129813,
+    "noiseBudgetBits": 12.37146946460598,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 6743,
+    "Bg": 7,
+    "latencyMs": 0.037209,
+    "securityBits": 922.7235884130414,
+    "noiseBudgetBits": 12.053976903639235,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.0390625,
+    "securityBits": 703.6145784115831,
+    "noiseBudgetBits": 16.430453827826085,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 6275,
+    "Bg": 12,
+    "latencyMs": 0.038312,
+    "securityBits": 915.9601016678482,
+    "noiseBudgetBits": 12.157752042241816,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2654209,
+    "sigma": 8565,
+    "Bg": 11,
+    "latencyMs": 0.037083,
+    "securityBits": 710.9069435108946,
+    "noiseBudgetBits": 16.241397300125353,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4046849,
+    "sigma": 5991,
+    "Bg": 12,
+    "latencyMs": 0.03725,
+    "securityBits": 669.6387193717503,
+    "noiseBudgetBits": 17.36557075458004,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 974849,
+    "sigma": 3606,
+    "Bg": 8,
+    "latencyMs": 0.041916499999999995,
+    "securityBits": 718.6673836204144,
+    "noiseBudgetBits": 16.04441984645487,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2572289,
+    "sigma": 9493,
+    "Bg": 9,
+    "latencyMs": 0.0385,
+    "securityBits": 718.5344880907661,
+    "noiseBudgetBits": 16.047757226597973,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 974849,
+    "sigma": 3232,
+    "Bg": 11,
+    "latencyMs": 0.037458,
+    "securityBits": 712.4303205778758,
+    "noiseBudgetBits": 16.202392045135415,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 7151,
+    "Bg": 9,
+    "latencyMs": 0.046333,
+    "securityBits": 750.8772506534402,
+    "noiseBudgetBits": 15.270380729626364,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 6243,
+    "Bg": 9,
+    "latencyMs": 0.037416000000000005,
+    "securityBits": 741.5738989395347,
+    "noiseBudgetBits": 15.48704480908026,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1589249,
+    "sigma": 3423,
+    "Bg": 12,
+    "latencyMs": 0.038583,
+    "securityBits": 688.8805001416166,
+    "noiseBudgetBits": 16.824652457623806,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 7844,
+    "Bg": 10,
+    "latencyMs": 0.037333000000000005,
+    "securityBits": 1050.003524587823,
+    "noiseBudgetBits": 10.350373780974248,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 5538,
+    "Bg": 4,
+    "latencyMs": 0.038208,
+    "securityBits": 735.1787443756782,
+    "noiseBudgetBits": 15.639160679233882,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 4866049,
+    "sigma": 3545,
+    "Bg": 13,
+    "latencyMs": 0.037166000000000005,
+    "securityBits": 636.0406360596797,
+    "noiseBudgetBits": 18.38853378981782,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1130497,
+    "sigma": 3359,
+    "Bg": 13,
+    "latencyMs": 0.0378955,
+    "securityBits": 706.2955955454083,
+    "noiseBudgetBits": 16.360493937366314,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5308417,
+    "sigma": 9661,
+    "Bg": 9,
+    "latencyMs": 0.038667,
+    "securityBits": 680.1004386970948,
+    "noiseBudgetBits": 17.06767774601554,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2424833,
+    "sigma": 6294,
+    "Bg": 11,
+    "latencyMs": 0.038375,
+    "securityBits": 698.8737693125747,
+    "noiseBudgetBits": 16.5554767819595,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 737281,
+    "sigma": 9081,
+    "Bg": 9,
+    "latencyMs": 0.0375,
+    "securityBits": 795.1396723935771,
+    "noiseBudgetBits": 14.309003877222148,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 5604,
+    "Bg": 13,
+    "latencyMs": 0.038542,
+    "securityBits": 1010.3174456497899,
+    "noiseBudgetBits": 10.835506360735579,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 786433,
+    "sigma": 7983,
+    "Bg": 9,
+    "latencyMs": 0.037208,
+    "securityBits": 781.7645254632806,
+    "noiseBudgetBits": 14.58803332412031,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1794049,
+    "sigma": 6386,
+    "Bg": 4,
+    "latencyMs": 0.0388335,
+    "securityBits": 716.4654881476933,
+    "noiseBudgetBits": 16.099875310849264,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 3552,
+    "Bg": 8,
+    "latencyMs": 0.0371455,
+    "securityBits": 845.2955937235805,
+    "noiseBudgetBits": 13.341303203623033,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1810433,
+    "sigma": 10000,
+    "Bg": 13,
+    "latencyMs": 0.0389165,
+    "securityBits": 742.4684740434792,
+    "noiseBudgetBits": 15.465975261382738,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 147457,
+    "sigma": 8643,
+    "Bg": 5,
+    "latencyMs": 0.037646,
+    "securityBits": 922.4331061465431,
+    "noiseBudgetBits": 12.058402624092112,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 10000,
+    "Bg": 11,
+    "latencyMs": 0.0375415,
+    "securityBits": 961.6250245304147,
+    "noiseBudgetBits": 11.485439406417864,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 188417,
+    "sigma": 3262,
+    "Bg": 12,
+    "latencyMs": 0.038583,
+    "securityBits": 819.8311699973628,
+    "noiseBudgetBits": 13.817812830953613,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 65537,
+    "sigma": 6428,
+    "Bg": 4,
+    "latencyMs": 0.037417,
+    "securityBits": 973.8866649271692,
+    "noiseBudgetBits": 11.315652084598353,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 2236417,
+    "sigma": 9270,
+    "Bg": 11,
+    "latencyMs": 0.038417,
+    "securityBits": 725.2684186367617,
+    "noiseBudgetBits": 15.880188447161338,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1146881,
+    "sigma": 8934,
+    "Bg": 12,
+    "latencyMs": 0.038625,
+    "securityBits": 764.1692867567763,
+    "noiseBudgetBits": 14.969978020233496,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 163841,
+    "sigma": 4045,
+    "Bg": 6,
+    "latencyMs": 0.037125,
+    "securityBits": 847.2564893212043,
+    "noiseBudgetBits": 13.305797197716961,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1253377,
+    "sigma": 3200,
+    "Bg": 10,
+    "latencyMs": 0.037521,
+    "securityBits": 697.9769998079317,
+    "noiseBudgetBits": 16.57931708862684,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 188417,
+    "sigma": 9924,
+    "Bg": 9,
+    "latencyMs": 0.038792,
+    "securityBits": 912.4222390875066,
+    "noiseBudgetBits": 12.212647877773067,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 114689,
+    "sigma": 9224,
+    "Bg": 8,
+    "latencyMs": 0.0385,
+    "securityBits": 953.386255388633,
+    "noiseBudgetBits": 11.601974988315542,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 6111233,
+    "sigma": 7279,
+    "Bg": 5,
+    "latencyMs": 0.037208,
+    "securityBits": 658.9635509815408,
+    "noiseBudgetBits": 17.679291791911663,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 40961,
+    "sigma": 3599,
+    "Bg": 11,
+    "latencyMs": 0.0385625,
+    "securityBits": 962.4152135540436,
+    "noiseBudgetBits": 11.474367214241669,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 638977,
+    "sigma": 6378,
+    "Bg": 15,
+    "latencyMs": 0.038375,
+    "securityBits": 780.6225329467211,
+    "noiseBudgetBits": 14.612300379093826,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 1785857,
+    "sigma": 9484,
+    "Bg": 4,
+    "latencyMs": 0.0385,
+    "securityBits": 740.0653890687598,
+    "noiseBudgetBits": 15.522689469801893,
+    "generation": 9999
+  },
+  {
+    "N": 4096,
+    "q": 5308417,
+    "sigma": 9441,
+    "Bg": 13,
+    "latencyMs": 0.037209,
+    "securityBits": 678.9171613205416,
+    "noiseBudgetBits": 17.10091059530216,
+    "generation": 9999
+  }
+]
